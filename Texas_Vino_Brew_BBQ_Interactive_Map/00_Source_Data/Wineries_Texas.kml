@@ -1,0 +1,938 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Wineries in Texas</name>
+		<description><![CDATA[This is a map of all the wineries in Texas.]]></description>
+		<Folder>
+			<name>Untitled layer</name>
+			<Placemark>
+				<name>Becker Vineyards</name>
+				<description><![CDATA[Becker Vineyards<br>464 Becker Farms Road, Stonewall TX 78671<br>P.O. Box 393, Stonewall TX 78671<br>(830) 644-2681<br>Fax: (830) 644-2689<br><br>Richard and Bunny Becker, Owners<br><br>Website: www.beckervineyards.com (http://www.beckervineyards.com/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-98.708513,30.202946,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Alamosa Wine Cellars</name>
+				<description><![CDATA[Alamosa Wine Cellars<br>677 County Road 430, Bend TX 76824<br>P.O. Box 212, Bend TX 76824<br>(325) 628-3313<br>(512) 335-0051 ext. 103<br><br>Karen and Jim Johnson, Owners and Growers<br>Jim Johnson, Winemaker<br><br>Website: www.alamosawinecellars.com (http://www.alamosawinecellars.com/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-98.546333,31.101746000000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Bella Vista Cellars</name>
+				<description><![CDATA[The Bella Vista Cellars<br>3101 Mount Sharp Road,<br>Wimberley TX 78676<br>(512) 847-6514<br><br>Pat and Jack Dougherty, Owners<br><br>Website: www.bvranch.com (http://www.bvranch.com/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-98.149477,30.076291,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bell Mountain Vineyards</name>
+				<description><![CDATA[Bell Mountain Vineyards<br>463 Bell Mountain Road, Fredericksburg TX 78624<br>P.O. Box 756, Fredericksburg TX 78624<br>(830) 685-3297<br>Fax: (830) 685-3657<br><br>Evelyn and Bob Oberhelman, Owners<br><br>Website: www.bellmountainwine.com (http://www.bellmountainwine.com/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-98.730413,30.433870999999996,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Brennan Vineyards</name>
+				<description><![CDATA[Brennan Vineyards<br>802 South Austin Street,<br>P.O. Box 399, Comanche TX 76442<br>(325) 356-9100<br>Fax: (325) 356-5556<br>Cell: (325) 330-0878<br><br>Website: www.brennanvineyards.com (http://www.brennanvineyards.com/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-98.60383300000001,31.891662999999998,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chisholm Trail Winery</name>
+				<description><![CDATA[Chisholm Trail Winery<br>2367 Usener Road, Fredericksburg TX 78624<br>P.O. Box 1274, Fredericksburg TX 78624<br>(830) 990-CORK (2675) or (877) 990-2675<br>Fax: (830) 990-9965<br><br>Website: www.chisholmtrailwinery.com (http://www.chisholmtrailwinery.com/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-99.035711,30.26609,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Comfort Cellars Winery</name>
+				<description><![CDATA[Comfort Cellars Winery<br>723 Front Street, Comfort TX 78013<br>P.O. Box 324, Comfort TX 78013<br>Phone and Fax: (830) 995-3274<br><br>Catherine Winmill, Owner<br><br>Website: www.comfortcellars.com/Wine.htm (http://www.comfortcellars.com/Wine.htm)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-98.906823,29.968059000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Driftwood Vineyards</name>
+				<description><![CDATA[Driftwood Vineyards<br>4001 Elder Hill Road, Driftwood TX 78619<br>(512) 692-6229 or (512) 858-4508<br>Fax: (512) 858-2020<br><br>Gary and Kathy Elliott, Owners<br><br>Website: www.driftwoodvineyards.com (http://www.driftwoodvineyards.com/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-98.036299,30.122649999999997,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dry Comal Creek Vineyard &amp; Winery</name>
+				<description><![CDATA[Dry Comal Creek Vineyard & Winery<br>1742 Herbelin Rd.<br>New Braunfels, TX 78132<br>(830) 885-4076<br><br>Website: www.drycomalcreek.com (http://www.drycomalcreek.com/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-98.275398,29.771762000000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fall Creek Vineyards</name>
+				<description><![CDATA[Fall Creek Vineyards<br>1820 County Road 222, Tow TX 78672<br>(325) 379-5361<br>Business Office: 1402 San Antonio Street, Suite 200, Austin TX 78701<br>(512) 476-4477<br>Fax: (512) 476-6116<br><br>Susan and Ed Auler, Owners<br><br>Website: www.fcv.com (http://www.fcv.com/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-98.456243,30.902246999999996,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fawn Crest Vineyard</name>
+				<description><![CDATA[Fawn Crest Vineyard<br>1370 Westside Circle, Canyon Lake TX 78133<br>(830) 935-2407 or (281) 413-2045 (cell)<br>Fax: (281) 392-5010<br><br>Patty and Wayne McNeil, Owners<br><br>Website: www.fawncrest.com (http://www.fawncrest.com/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-98.288437,29.922854000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Flat Creek Estate</name>
+				<description><![CDATA[Flat Creek Estate<br>24912 Singleton Bend East, Marble Falls TX 78654<br>(Located off 1431, 6 miles west of Lago Vista)<br>(512) 267-6310 or (512) 267-1802<br>Fax: (512) 267-6321<br>Open:  Tuesday thru Friday, Noon to 5pm; Saturday, 10am to 5pm; Sunday, Noon to 5pm<br>Madelyn and Rick Naber, Owners<br>Website: www.flatcreekestate.com (http://www.flatcreekestate.com/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-98.044569,30.481197,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fredericksburg Winery</name>
+				<description><![CDATA[Fredericksburg Winery<br>247 West Main Street, Fredericksburg TX 78624<br>(830) 990-8747<br>Fax: (830) 990-8566<br><br>The Switzer Family, Owners<br><br>Website: www.fbgwinery.com (http://www.fbgwinery.com/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-98.874879,30.276918000000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>	Grape Creek Vineyards</name>
+				<description><![CDATA[Grape Creek Vineyards<br>97 Vineyard Lane, Stonewall TX 78671<br>P.O. Box 102, Stonewall TX 78671<br>(830) 644-2710<br>Fax: (830) 644-2746<br><br>Website: www.grapecreek.com (http://www.grapecreek.com/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-98.723818,30.219351,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lost Creek Vineyard</name>
+				<description><![CDATA[Lost Creek Vineyard<br>1129 Ranch Road 2233, Sunrise Beach TX 78643<br>(325) 388-3753<br>Fax: (325) 388-0910<br><br>David Brinkman, Owner<br><br>Website: www.lostcreekvineyard.com (http://www.lostcreekvineyard.com/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-98.439758,30.592751,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mandola Estate Winery</name>
+				<description><![CDATA[Mandola Estate Winery<br>13308 FM 150 West, Driftwood TX 78619<br>(512) 858-1470<br>Fax: (512) 858-1340<br><br>Damian and Trina Mandola, Stan and Lisa Duchman, Owners<br><br>Website: www.mandolawines.com (http://www.mandolawines.com/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-98.0186,30.103,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>McReynolds Wines</name>
+				<description><![CDATA[McReynolds Wines<br>706 Shovel Mountain Road, Cypress Mills TX 78663<br>(830) 825-3544<br>Fax: (830) 825-1105<br><br>Website: www.mcreynoldswines.com (http://www.mcreynoldswines.com/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-98.255457,30.394627,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pillar Bluff Vineyard</name>
+				<description><![CDATA[Pillar Bluff Vineyards<br>300 County Road 111, Lampasas TX 76550<br>(512) 556-4078<br>Fax: (512) 556-4078<br><br>Peggy and Gill Bledsoe, Owners<br><br>Website: www.pillarbluff.com (http://www.pillarbluff.com/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-98.192024,31.077196,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Poteet Country Winery</name>
+				<description><![CDATA[Poteet Country Winery<br>400 Tank Hollow Road, Poteet TX 78065<br>(830) 276-8085<br><br>Jim Collums, Owner<br><br>Website: www.poteetwine.com (http://www.poteetwine.com/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-98.619148,29.036705999999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rising Star Vineyards</name>
+				<description><![CDATA[Rising Star Vineyards<br>1001 County Road 290, Rising Star TX 76471<br>(254) 643-1776 or (512) 899-9882<br>Fax: (512) 251-5548<br><br>Michael and Vicki Oubre, Owners<br><br>Website: www.risingstarvineyards.com (http://www.risingstarvineyards.com/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-98.933683,32.162219,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sandstone Cellars Winery</name>
+				<description><![CDATA[Sandstone Cellars Winery<br>211 San Antonio Street, Mason TX 76856<br>P.O. Box 1246, Mason TX 76856<br>(325) 347-9463<br><br>Scott Haupert and Manny Silerio, Owners<br><br>Website: www.sandstonecellarswinery.com (http://www.sandstonecellarswinery.com/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-99.230803,30.747786,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Singing Water Vineyards</name>
+				<description><![CDATA[Singing Water Vineyards<br>316 Mill Dam Road, Comfort TX 78013<br>(830) 995-2246<br>Fax: (830) 995-3964<br><br>Dick and Julie Holmberg, Owners<br><br>Website: www.shopcomfort.com/singingwater (http://www.shopcomfort.com/singingwater/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-98.91802100000001,29.928587,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sister Creek Vineyards</name>
+				<description><![CDATA[Sister Creek Vineyards<br>1142 Sisterdale Road, Sisterdale TX 78006<br>(12 miles north of Boerne on FM 1376 or 17 miles south of US Hwy 290)<br>(830) 324-6704<br>Fax: (830) 324-6704<br><br>Website: www.sistercreekvineyards.com (http://www.sistercreekvineyards.com/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-98.721493,29.976625999999996,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Spicewood Vineyards</name>
+				<description><![CDATA[Spicewood Vineyards<br>1419 Burnet County Road 409<br>Spicewood, TX 78669<br>(830) 693-5328<br><br>Website: www.spicewoodvineyards.com (http://www.spicewoodvineyards.com)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-98.187733,30.457848,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Stone House Vineyard</name>
+				<description><![CDATA[Stone House Vineyard<br>24350 Haynie Flat Rd.<br>Spicewood, TX 78669<br>(512) 264-3639<br><br>Website: www.stonehousevineyard.com (http://www.stonehousevineyard.com)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-98.095036,30.457257000000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Texas Hills Vineyard</name>
+				<description><![CDATA[Texas Hills Vineyard<br>878 Ranch Road 2766, Johnson City TX 78636<br>P.O. Box 1480, Johnson City TX 78636<br>(830) 868-2321<br>Fax: (830) 868-7027<br><br>Kathy and Gary Gilstrap and Dale Rassett, Owners<br><br>Website: www.texashillsvineyard.com (http://www.texashillsvineyard.com/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-98.388405,30.275079,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Texas Legato</name>
+				<description><![CDATA[Texas Legato<br>2935 FM 1478, P.O. Box 1238, Lampasas TX 76550<br>(512) 556-9600 or (817) 313-9565<br>Fax: (512) 556-9601<br><br>Sulynn and Bill Bledsoe, Owners<br><br>Website: www.texaslegato.com (http://www.texaslegato.com/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-98.235111,31.029401,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Three Dudes Winery</name>
+				<description><![CDATA[Three Dudes Winery<br>125 Old Martindale Road, San Marcos TX 78666<br>(512) 392-7044<br><br>Terry Alford, Ron Pontiff and Jeff Felderhoff, Owners<br><br>Website: www.threedudeswinery.com (http://www.threedudeswinery.com/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-97.888238,29.864280000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Torre di Pietra Winery</name>
+				<description><![CDATA[Torre di Pietra Winery<br>10915 East Hwy 290, Fredericksburg TX 78624<br>P.O. Box 1727, Fredericksburg TX 78624<br>(830) 644-2829<br>Fax: (830) 644-2830<br><br>Ken and Jenise Maxwell, Owners<br><br>Website: www.texashillcountrywine.com (http://www.texashillcountrywine.com/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-98.875067,30.261955999999998,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wimberley Valley Winery at Driftwood</name>
+				<description><![CDATA[Wimberley Valley Winery at Driftwood<br>2825 Lone Man Mountain Road, Driftwood TX 78619<br>(512) 847-2592<br><br>Wimberley Valley Wines Inc., Owner<br><br>Website: www.wimberleyvalleywinery.com (http://www.wimberleyvalleywinery.com/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-98.054331,30.095181999999998,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Woodrose Winery</name>
+				<description><![CDATA[Woodrose Winery<br>662 Woodrose Lane, Stonewall TX 78671<br>(830) 644-2539<br><br>Mike Guilette, Owner<br><br>Website: www.woodrosewinery.com (http://www.woodrosewinery.com/)]]></description>
+				<styleUrl>#icon-22</styleUrl>
+				<Point>
+					<coordinates>-98.655468,30.224920999999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Barking Rocks Winery &amp; Vineyard</name>
+				<description><![CDATA[Barking Rocks Winery & Vineyard<br>1919 Allen Court, Granbury TX 76048<br>(817) 579-0007<br><br>Sissy Andrews, Tiberia, Owners<br><br>Website: www.barkingrockswine.com (http://www.barkingrockswine.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-97.806115,32.471578,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bluff Dale Vineyards</name>
+				<description><![CDATA[Bluff Dale Vineyards<br>5222 County Road 148, Bluff Dale TX 76433<br>P.O. Box 110, Bluff Dale TX 76433<br>(254) 728-3540<br>Fax: (254) 728-3541<br><br>Theresa Hayes, Owner<br><br>Website: www.bluffdalevineyards.com (http://www.bluffdalevineyards.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-98.022125,32.380668,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Brushy Creek Vineyards &amp; Winery</name>
+				<description><![CDATA[Brushy Creek Vineyards and Winery<br>572 County Road 2798, Alvord TX 76225<br>(50 miles NW of Fort Worth on CR 2798 at US 287/81 between Decatur and Bowie, Texas.)<br>(940) 427-4747<br>Cell: (817) 821-0175<br><br>Les Constable, Owner<br><br>Website: www.brushycreekvineyards.com (http://www.brushycreekvineyards.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-97.706279,33.394144,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Carmela Winery</name>
+				<description><![CDATA[Carmela Winery<br>(This is the winery location.)<br>Tasting Room: 120 North Preston Road, Suite 10, Prosper, TX 75078<br>Winery: 210 West Broadway, Prosper TX 75078<br>P.O. Box 295, Prosper TX 75078<br>(972) 346-2894<br>Fax: (972) 347-2190<br><br>Joseph D. Anselmo, Owner<br><br>Website: www.carmelawinery.net (http://www.carmelawinery.net/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-96.803974,33.236456,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Collin Oaks Winery</name>
+				<description><![CDATA[Collin Oaks Winery<br>6874 County Road 398, Princeton TX 75407<br>(214) 504-9701 Fax: (817) 488-7981<br><br>Gary and David Edwards, Owners<br><br>Website: www.collinoakswinery.com (http://www.collinoakswinery.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-96.52952,33.14843,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CrossRoads Winery</name>
+				<description><![CDATA[CrossRoads Winery<br>15222 King Road #301, Frisco TX 75034<br>(972) 294-4144 or (214) 725-5646<br>Fax: (972) 899-1295<br><br>Monica and John Otis, Owners<br>John Otis, Winemaker<br><br>Website: www.crwinery.com (http://www.crwinery.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-96.910324,33.154687,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cross Timbers Winery</name>
+				<description><![CDATA[Cross Timbers Winery<br>805 North Main Street, Grapevine TX 76051<br>(817) 488-6789<br>Fax: (817) 488-7981<br><br>Don Bigbie, Owner<br><br>Website: www.crosstimberswinery.com (http://www.crosstimberswinery.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-97.078159,32.94724,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Delaney Vineyards at Grapevine</name>
+				<description><![CDATA[Delaney Vineyards at Grapevine<br>2000 Champagne Boulevard, Grapevine TX 76051<br>(817) 481-5668<br>Fax: (817) 251-8119<br><br>Jerry Delaney, Owner<br><br>Website: www.delaneyvineyards.com (http://www.delaneyvineyards.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-97.097249,32.885592,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Grayson Hills Winery</name>
+				<description><![CDATA[Grayson Hills Winery<br>2815 Ball Road, Whitewright TX 75491<br>(903) 627-0832<br><br>Rick Magers, Owner<br><br>Website: www.graysonhillswinery.com (http://www.graysonhillswinery.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-96.462934,33.493388,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Guerra Vineyard &amp; Winery</name>
+				<description><![CDATA[Guerra Vineyard & Winery<br>2170 County Road 4110, Pittsburg TX 75686<br>(972) 791-3004<br>Fax: (972) 650-1097<br><br>Mark Arra and Ann Guerra Arra, Owners<br><br>Website: www.guerravineyardandwinery.com (http://www.guerravineyardandwinery.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-94.922469,33.019807,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Homestead Winery at Denison</name>
+				<description><![CDATA[Homestead Winery at Denison<br>Wine Tasting Facility:<br>220 West Main Street, Denison TX 75020<br>(903) 464-0030<br><br>Barbara and Gabe Parker, Owners<br><br>Website: www.homesteadwinery.com (http://www.homesteadwinery.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-96.537209,33.755343,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Homestead Winery at Grapevine</name>
+				<description><![CDATA[Homestead Winery at Grapevine<br>Wine Tasting Facility:<br>211 East Worth, Grapevine TX 76051<br>(817) 251-9463<br><br>Barbara and Gabe Parker, Owners<br><br>Website: www.homesteadwinery.com (http://www.homesteadwinery.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-97.07656700000001,32.938047,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Homestead Winery at Ivanhoe</name>
+				<description><![CDATA[Homestead Winery at Ivanhoe<br>Production Facility:<br>P.O. Box 35, Ivanhoe TX 75447<br>(903) 583-4281<br>Fax: (903) 583-2024<br><br>Barbara and Gabe Parker, Owners<br><br>Website: www.homesteadwinery.com (http://www.homesteadwinery.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-96.163304,33.676531,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Inwood Estate Vineyards</name>
+				<description><![CDATA[Inwood Estate Vineyards<br>1350 Manufacturing Street #209, Dallas TX 75207<br>(214) 902-9452 or (214) 679-1907<br>Fax: (214) 902-9452<br><br>Dan and Rose Mary Gatlin, Owners<br><br>Website: www.inwoodwines.com (http://www.inwoodwines.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-96.827804,32.797852,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Khatter Vineyards</name>
+				<description><![CDATA[Khatter Vineyards<br>4110 Brookwood Drive, Parker TX 75002<br>(972) 516-1940<br><br>Carolyn Khatter, Owner<br><br>Website: www.khattervineyards.com (http://www.khattervineyards.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-96.64288500000002,33.056958,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kiepersol Estates Vineyards</name>
+				<description><![CDATA[Kiepersol Estates Vineyards<br>3933 FM 344 East, Tyler TX 75703<br>(903) 894-8995<br>Fax: (903) 894-7933<br><br>Marnelle Durrett, Owner<br><br>Website: www.kiepersol.com (http://www.kiepersol.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-95.314705,32.139141,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>La Bodega Winery</name>
+				<description><![CDATA[La Bodega Winery<br>Dallas/Fort Worth International Airport<br>Terminal A, Gate A15, Terminal D, Gate D14, DFW Airport TX 75261<br>(972) 574-1440 (A15) or (972) 973-WINE (D14)<br>Fax: (972) 574-4353<br><br>Gina Puente-Brancato, Owner<br><br>Website: www.labodegawinery.com (http://www.labodegawinery.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-97.048286,32.896211,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>La Buena Vida Vineyards at Grapevine</name>
+				<description><![CDATA[La Buena Vida Vineyards at Grapevine<br>416 East College Street, Grapevine TX 76051<br>(817) 481-WINE (9463)<br>Fax: (817) 421-3635<br><br>Gina Puente-Brancato, Owner<br><br>Website: www.labuenavida.com (http://www.labuenavida.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-97.074273,32.935097,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>La Buena Vida Vineyards at Springtown</name>
+				<description><![CDATA[La Buena Vida Vineyards at Springtown<br>650 Vineyard Lane, Springtown TX 76082<br>(817) 220-4366<br><br>Bobby Smith, Owner<br><br>Website: www.labuenavida.com (http://www.labuenavida.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-97.661337,32.91897,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Landon Winery</name>
+				<description><![CDATA[Landon Winery<br>101 North Kentucky Street, McKinney, TX 75069<br>(972) 542-3030<br><br>Bob and Katie Landon, Owners<br><br>Website: www.landonwinery.com (http://www.landonwinery.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-96.615886,33.19729,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lightcatcher Winery</name>
+				<description><![CDATA[LightCatcher Winery<br>6925 Confederate Park Road/FM1886, Fort Worth TX 76108<br>(817) 237-2626<br>Fax: (817) 237-1629<br><br>Caris and Terry Turpen, Owners<br><br>Website: www.lightcatcher.com (http://www.lightcatcher.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-97.513053,32.823147,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lone Oak Winery</name>
+				<description><![CDATA[Lone Oak Winery<br>2116 FM 731, Burleson, TX 76028<br>(817) 426-6625<br>Fax: (817)426-2334<br><br>Gene Estes, Owner<br><br>Website: www.loneoakwinery.com (http://www.loneoakwinery.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-97.347214,32.527383,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lone Star Wine Cellars</name>
+				<description><![CDATA[Lone Star Wine Cellars<br>103 East Virginia Street Suite 104, McKinney TX 75069<br>(972) 547-WINE(9463)<br>201 East Franklin Street, Grapevine TX 76051<br>(817) 310-6388<br><br>John Wales and Ron Ross, Owners<br><br>Website: www.lonestarwinecellars.com (http://www.lonestarwinecellars.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-96.615688,33.198225,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Los Pinos Ranch Vineyards</name>
+				<description><![CDATA[Los Pinos Ranch Vineyards<br>658 County Road 1334, Pittsburg TX 75686<br>(903) 855-1769<br>Fax: (903) 855-1771<br><br>Jeff Sneed, Owner<br><br>Website: www.lospinosranchvineyards.com (http://www.lospinosranchvineyards.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-94.979927,32.924031,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LouViney Cellars &amp; Bistro</name>
+				<description><![CDATA[LouViney Cellars & Bistro<br>111 East Broadway, Winnsboro TX 75494<br>(903) 342-0485<br>Fax: (903) 342-5672<br><br>Susan Jones, Susann Briggs and Nancy Briggs, Owners<br><br>Website: www.louviney.com (http://www.louviney.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-95.290177,32.957302,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Maydelle Country Wines</name>
+				<description><![CDATA[Maydelle Country Wines<br>175 CR 2108, Rusk TX 75785<br>(903) 795-3915<br><br>Steven Harper, Owner<br><br>Website: www.maydellewines.com (http://www.maydellewines.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-95.265369,31.804789,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Paris Vineyards</name>
+				<description><![CDATA[Paris Vineyards<br>545 County Road 43500, Paris TX 75462<br>(903) 982-7216<br><br>Larry and Denise Dority, Owners<br><br>Website: www.parisvineyards.com (http://www.parisvineyards.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-95.555275,33.660831,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Red Caboose Winery</name>
+				<description><![CDATA[Red Caboose Winery<br>1147 CR 1110, Meridian TX 76665<br>(254) 435-9911 or (254) 415-4843<br>Fax: (214) 435-9910<br><br>Gary McKibben, Owner<br><br>Website: www.redcaboosewinery.com (http://www.redcaboosewinery.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-97.61984,31.954399999999996,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Red Road Vineyard and Winery</name>
+				<description><![CDATA[Red Road Vineyard and Winery<br>105 W Front Street, Naples, Texas 75568<br>(903) 897-9353<br>Fax: (903) 897-0244<br><br>Website: www.redroadvineyard.com (http://www.redroadvineyard.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-94.682193,33.200649,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>San Martiño Winery and Vineyard</name>
+				<description><![CDATA[San Martiño Winery and Vineyard<br>12512 Hwy 205 North, Rockwall TX 75087<br>P.O. Box 2229, Rockwall TX 75087<br>(972) 772-6043<br>Fax: (972) 772-1902<br><br>Emilio Ramos and Maria C. Ramos, Owners<br><br>Website: www.sanmartinowinery.com (http://www.sanmartinowinery.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-96.463863,32.995071,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sunset Winery</name>
+				<description><![CDATA[Sunset Winery<br>1535 South Burleson Boulevard, Burleson TX 76028<br>(817) 426-1141<br><br>Birgit and Bruce Anderson, Winemakers<br><br>Website: www.sunsetwinery.com (http://www.sunsetwinery.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-97.301153,32.511727,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Su Vino Winery</name>
+				<description><![CDATA[Su Vino Winery<br>120 South Main Street, Grapevine TX 76051<br>(817) 424-0123 or 1-(877) 4SU-VINO (478-8466)<br>Fax: (817) 416-9441<br><br>David and Chari Scott, Owners<br><br>Website: www.suvinowinery.com (http://www.suvinowinery.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-97.078663,32.940173,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sweet Dreams Winery</name>
+				<description><![CDATA[Sweet Dreams Winery<br>2549 Anderson County Road 441, Palestine TX 75803<br>Mailing Address: 904 East Lamar Street, Palestine TX 75801<br>(903) 549-2027<br>Fax: (903) 723-0953<br><br>Mike and Sandra Pell, Owners<br><br>Website: www.sweetdreamswinery.com (http://www.sweetdreamswinery.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-95.61905700000001,31.891222,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tara Vineyard &amp; Winery</name>
+				<description><![CDATA[Tara Vineyard & Winery<br>8603 CR 3914, Athens TX 75752<br>(903) 675-7023<br><br>Susan Z. Steger & Patrick Pierce, Owners<br><br>Website: www.tarawinery.com (http://www.tarawinery.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-95.914249,32.275813,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Texoma Winery</name>
+				<description><![CDATA[Texoma Winery<br>9 Judge Carr Road, Whitewright TX 75491<br>(903) 364-5242<br>Fax: (903) 364-2207<br><br>Bob White, Owner<br><br>Website: www.texomawinery.com (http://www.texomawinery.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-96.453121,33.553961,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Times Ten Cellars</name>
+				<description><![CDATA[Times Ten Cellars<br>6324 Prospect Avenue, Dallas TX 75214<br>(214) 824-9463<br>Fax: (214) 824-9464<br><br>Kert Platner, Rob Wilson and Chris Lawler, Owners<br><br>Website: www.timestencellars.com (http://www.timestencellars.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-96.754307,32.815004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Triple “R” Ranch &amp; Winery</name>
+				<description><![CDATA[Triple “R” Ranch & Winery<br>2276 County Road 125, Whitesboro TX 76243<br>(214) 850-4020<br>Office: 1503 Silverlake Road, McKinney TX 75070<br>(972) 529-0272<br>Fax: (972) 529-9902<br>Ronald R. Ross, Owner<br>Website: www.thetriplerranch.com (http://www.thetriplerranch.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-96.992311,33.786448,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wales Manor</name>
+				<description><![CDATA[Wales Manor<br>4488 County Road 408, McKinney TX 75069<br>(972) 542-0417<br><br>John Wales, Owner<br><br>Website: www.walesmanor.com (http://www.walesmanor.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-96.542574,33.212698,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Weinhof Winery</name>
+				<description><![CDATA[Weinhof Winery<br>16678 FM 455, P.O. Box 250, Forestburg TX 76239<br>(940) 964-2552<br><br>Larry and Brenda Thompson, Owners<br><br>Website: www.weinhofwinery.com (http://www.weinhofwinery.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-97.559452,33.533239,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wichita Falls Vineyards &amp; Winery</name>
+				<description><![CDATA[Wichita Falls Vineyards & Winery<br>3399 Peterson Road South, Iowa Park TX 76367<br>(940) 855-2093<br>Fax: (940) 851-5022<br><br>Lana and Alton Gates, Founders and Operators<br><br>Website: www.wichitafallsvineyardsandwinery.com (http://www.wichitafallsvineyardsandwinery.com/)]]></description>
+				<styleUrl>#icon-123</styleUrl>
+				<Point>
+					<coordinates>-98.62267,33.901208,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bernhardt Winery</name>
+				<description><![CDATA[Bernhardt Winery<br>9043 County Road 204, Plantersville TX 77363<br>(936) 520-8684 or (936) 894-9829<br><br>Jerry and Jerri Bernhardt, Owners<br><br>Website: www.bernhardtwinery.com (http://www.bernhardtwinery.com/)]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<Point>
+					<coordinates>-95.832603,30.345120999999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bruno &amp; George Wines</name>
+				<description><![CDATA[Bruno & George Wines<br>400 Messina Road, Sour Lake TX 77659<br>(409) 963-8235 or (409) 898-2829<br>Fax: (409) 985-5414<br><br>Misha and Shawn Bruno, Owners<br><br>Website: www.brunoandgeorge.com (http://www.brunoandgeorge.com/)]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<Point>
+					<coordinates>-94.398103,30.127411000000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Circle S Vineyards</name>
+				<description><![CDATA[Circle S Vineyards<br>9920 Highway 90A #B-268, Sugar Land TX 77478<br>(281) 265-9463<br>Fax: (281) 325-0631<br><br>Dave Stacy, Owner<br><br>Website: www.circlesvineyards.com (http://www.circlesvineyards.com/)]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<Point>
+					<coordinates>-95.60444,29.624974,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Colony Cellars</name>
+				<description><![CDATA[Colony Cellars<br>35955 Richard Frey Road, Waller TX 77484<br>(979) 826-3995 or (979) 826-3073<br>Fax: (979) 826-3073<br><br>Oak Tree Ranch Corporation, Don and Ruby Corley, Owners<br><br>Website: www.colonycellars.com (http://www.colonycellars.com/)]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<Point>
+					<coordinates>-96.018687,29.954187000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Frascone Winery</name>
+				<description><![CDATA[Frascone Winery<br>311 Bayside Drive, Oak Island TX 77514<br>(409) 252-4506 or (409) 392-7136<br>Fax: (409) 252-4151<br><br>James and Glenda Frascone, Owners<br><br>Website: www.frasconewinery.com (http://www.frasconewinery.com/)]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<Point>
+					<coordinates>-94.69533,29.659299,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Haak Vineyard &amp; Winery Inc.</name>
+				<description><![CDATA[Haak Vineyard & Winery Inc.<br>6310 Avenue T, Santa Fe TX 77510<br>(409) 925-1401<br>Fax: (409) 925-0276<br><br>Gladys and Raymond Haak, Owners<br><br>Website: www.haakwine.com (http://www.haakwine.com/)]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<Point>
+					<coordinates>-95.106565,29.352896,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lehm Berg Winery</name>
+				<description><![CDATA[Lehm Berg Winery<br>1266 County Road 208, Giddings TX 78942<br>(979) 542-2726<br>Fax: (979) 542-3804<br><br>Mary Beth Droemer and Carl Droemer, Owners<br><br>Website: www.lehmbergwinery.com (http://www.lehmbergwinery.com/)]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<Point>
+					<coordinates>-96.979948,30.173687999999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Messina Hof Winery &amp; Resort</name>
+				<description><![CDATA[Messina Hof Winery & Resort<br>4545 Old Reliance Road, Bryan TX 77808<br>(979) 778-9463 ext. 34 or (800) 736-9463 ext. 34<br>Fax: (979) 778-1729<br><br>Paul and Merrill Bonarrigo, Owners<br><br>Website: www.messinahof.com (http://www.messinahof.com/)]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<Point>
+					<coordinates>-96.323097,30.701881,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Piney Woods Country Wines</name>
+				<description><![CDATA[Piney Woods Country Wines<br>3408 Willow Drive, Orange TX 77632<br>(409) 883-5408<br>Fax: (409) 883-5483<br><br>Alfred J. Flies, Owner<br><br>Website: www.pineywoodswines.com (http://www.pineywoodswines.com/)]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<Point>
+					<coordinates>-93.772668,30.124467999999997,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pleasant Hill Winery</name>
+				<description><![CDATA[Pleasant Hill Winery<br>1441 Salem Road, Brenham TX 77833<br>(979) 830-VINE (8463)<br>Fax: (979) 277-9218<br><br>Jeanne and Bob Cottle, Proprietors<br><br>Website: www.pleasanthillwinery.com (http://www.pleasanthillwinery.com/)]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<Point>
+					<coordinates>-96.410811,30.125457000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Purple Possum Winery</name>
+				<description><![CDATA[Purple Possum Winery<br>5492 Rabun Lane, Navasota TX 77868<br>(936) 825-2830<br>Fax: (936) 825-2965<br><br>Website: www.purplepossum.com (http://www.purplepossum.com/)]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<Point>
+					<coordinates>-96.06725,30.412792999999997,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rosemary’s Vineyard &amp; Winery</name>
+				<description><![CDATA[Rosemary’s Vineyard & Winery<br>5521 Hwy 71 East, La Grange TX 78945<br>(979) 249-2109 or (281) 728-9737<br>Fax: (979) 249-2106<br>Emmett and Beatrice Schulze, Owners<br>Website: None]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<Point>
+					<coordinates>-96.848251,29.914169,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tehuacana Creek Vineyards &amp; Winery</name>
+				<description><![CDATA[Tehuacana Creek Vineyards & Winery<br>6826 East Hwy 6, Waco TX 76705<br>(254) 875-2375<br><br>Ulf and Inga-Lill Westblom, Owners<br><br>Website: www.wacowinery.com (http://www.wacowinery.com/)]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<Point>
+					<coordinates>-97.019908,31.531548,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>White House Winery</name>
+				<description><![CDATA[White House Winery<br>308 N. Main St., Conroe TX 77301<br>Mail: P.O. Box 2882, Conroe TX 77305<br>(281) 702-2850<br><br>Till, Gary and Tanya Hahne, Owners<br><br>Website: www.whitehousewinery.com (http://www.whitehousewinery.com/)]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<Point>
+					<coordinates>-95.457017,30.311347999999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wimberley Valley Winery at Old Town Spring</name>
+				<description><![CDATA[Wimberley Valley Winery at Old Town Spring<br>Tasting Room: 206 Main Street, Old Town Spring TX 77373<br>(281) 350-8801<br>Fax: (281) 288-8298<br><br>Wimberley Valley Wines Inc., Owner<br><br>Website: www.wimberleyvalleywinery.com (http://www.wimberleyvalleywinery.com/)]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<Point>
+					<coordinates>-95.418884,30.079511,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Windy Hill Winery</name>
+				<description><![CDATA[Windy Hill Winery<br>4232 Clover Road, Brenham TX 77833<br>(979) 836-3252<br>Fax: (979) 836-4588<br><br>August and Linda Meitzen, Owners<br><br>Website: www.windyhillwinery.net (http://www.windyhillwinery.net/)]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<Point>
+					<coordinates>-96.360506,30.240254,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Yepez Vineyard</name>
+				<description><![CDATA[Yepez Vineyard<br>123739 FM 2354, Baytown TX 77520<br>(281) 573–4139 (979) 836-3252<br><br>David A. Yepez, Owner<br><br>Website: www.yepezvineyard.com (http://www.yepezvineyard.com/)]]></description>
+				<styleUrl>#icon-61</styleUrl>
+				<Point>
+					<coordinates>-94.815397,29.858243999999996,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bar Z Wines</name>
+				<description><![CDATA[Bar Z Wines<br>307 5th Street, Morse TX 79062<br>P.O. Box 121, Morse TX 79062<br>(806) 733-2673 or (806) 733-2552<br>Fax: (806) 733-2165<br><br>Website: www.barzwines.com (http://www.barzwines.com/)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>-101.47822,36.059834,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cap*Rock Winery at Lubboc</name>
+				<description><![CDATA[Cap*Rock Winery at Lubbock<br>408 East Woodrow Road, Lubbock TX 79423<br>(806) 863-2704<br>Fax: (806) 863-2712<br><br>Don Roark, President<br><br>Website: www.caprockwinery.com (http://www.caprockwinery.com/)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>-101.832304,33.445917,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Delaney Vineyards at Lamesa</name>
+				<description><![CDATA[Delaney Vineyards at Lamesa<br>One mile north of Lamesa on Highway 137, Lamesa TX 79331<br>(806) 872-3177<br>Fax: (806) 872-2421<br><br>Ronnie Wilson, Vineyard Manager<br><br>Website: www.delaneyvineyards.com (http://www.delaneyvineyards.com/)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>-101.973038,32.769955,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>La Diosa Cellars</name>
+				<description><![CDATA[La Diosa Cellars<br>901 17th Street, Lubbock TX 79401<br>(806) 744-3600<br>Fax: (806) 744-3704<br><br>Sylvia McPherson, Catherine Traxler, Owners<br><br>Website: www.ladiosacellars.com (http://www.ladiosacellars.com/)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>-101.84439,33.57988,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Llano Estacado Winery</name>
+				<description><![CDATA[3.2 miles East of US 87 South on FM 1585 in Lubbock, Texas, Lubbock TX 79452<br>(806) 745-2258<br>Fax: (806) 748-1674<br>Sales & Marketing: 1000 South Main, Suite 252, Grapevine TX 76051<br>(817) 329-3890<br>Fax: (817) 421-0919<br><br>Website: www.llanowine.com (http://www.llanowine.com/)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>-101.820946,33.478131,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Luz de Estrella Vineyards</name>
+				<description><![CDATA[Luz de Estrella Vineyards<br>P.O. Box 578, 100 Starlight Lane, East US Hwy 90, Marfa TX 79843<br>(432) 729-3434<br>Fax: (432) 729-1819<br><br>John and Linda Armstrong, Owners<br><br>Website: www.luzdeestrella.com (http://www.luzdeestrella.com/)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>-104.020624,30.309412000000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pheasant Ridge Winery</name>
+				<description><![CDATA[Pheasant Ridge Winery<br>3507 East County Road 5700, Lubbock TX 79403<br>(806) 746-6033<br>Fax: (806) 746-6750<br><br>William E. Gipson, Owner<br><br>Website: www.pheasantridgewinery.com (http://www.pheasantridgewinery.com/)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>-101.793446,33.724684,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ste. Genevieve Wines</name>
+				<description><![CDATA[Ste. Genevieve Wines<br>P.O. Box 130, Fort Stockton TX 79735<br>(432) 395-2417<br>Fax: (432) 395-2431<br><br>Mesa Vineyards LP; Patrick Prendergast, President<br><br>Website: None]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>-102.621621,30.825321000000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Val Verde Winery</name>
+				<description><![CDATA[Val Verde Winery<br>100 Qualia Drive, Del Rio TX 78840<br>(830) 775-9714<br>Fax: (830) 775-5394<br><br>Thomas M. Qualia, Owner<br><br>Website: www.valverdewinery.com (http://www.valverdewinery.com/)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>-100.895444,29.346369999999997,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Zin Valle Vineyards</name>
+				<description><![CDATA[Zin Valle Vineyards<br>7315 Hwy 28, Canutillo TX 79835<br>(915) 877-4544<br>Fax: (915) 877-2257<br><br>Victor Poulos, Owner<br><br>Website: www.zinvalle.com (http://www.zinvalle.com/)]]></description>
+				<styleUrl>#icon-169</styleUrl>
+				<Point>
+					<coordinates>-106.626434,31.926524,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-123-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-123-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/123-red-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-123'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-123-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-123-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-169-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/169-ltblue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-169-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/169-ltblue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-169'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-169-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-169-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-22-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-22-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-22'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-22-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-22-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-61-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-61-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-61'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-61-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-61-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

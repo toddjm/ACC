@@ -1,0 +1,920 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Texas Craft Breweries &amp; Brewpubs</name>
+		<description><![CDATA[List compiled by TEXASBREWS.org, check us out for anything and everything to do with Texas craft beer.<br><br>Commercially producing breweries in RED, Brewpubs in BLUE. Breweries/brewpubs who aren't quite commercially producing or open yet in GREEN.]]></description>
+		<Folder>
+			<name>Untitled layer</name>
+			<Placemark>
+				<name>(512) Brewing Company</name>
+				<styleUrl>#icon-124-nodesc</styleUrl>
+				<Point>
+					<coordinates>-97.769951,30.222983,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>8th Wonder Brewing</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/ZQSCXtOiyn8zL0DqXyCdGi-OQl6BB0BiJ0PL6cROOaB27DZchkZ_GnQEXD4X1u-IOf_ccVHlzGzIX6YeahDuZw1pyht8Jd7YKvAJszK30jum95u1vmyVX6TlSSITdTqwWsCLLg" height="200" width="auto" /><br><br>2202 Dallas St, Houston, TX 77003]]></description>
+				<styleUrl>#icon-124</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/ZQSCXtOiyn8zL0DqXyCdGi-OQl6BB0BiJ0PL6cROOaB27DZchkZ_GnQEXD4X1u-IOf_ccVHlzGzIX6YeahDuZw1pyht8Jd7YKvAJszK30jum95u1vmyVX6TlSSITdTqwWsCLLg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.355781,29.749223,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>903 Brewers</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/qeljHQa94mzopNu0Ezwz_u93-QsC_3Bhp05R4fGCstSd5aszR0EiG667cXhTKMTaWcPUtaSAgCDt1541DoM6NOXWU9ZuoruxK_2XIMxH2RuylFidEaW1Shmt0m_jKHJATsJBmkIZWE_DZw" height="200" width="auto" /><br><br>Sherman, TX 75090]]></description>
+				<styleUrl>#icon-124</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/qeljHQa94mzopNu0Ezwz_u93-QsC_3Bhp05R4fGCstSd5aszR0EiG667cXhTKMTaWcPUtaSAgCDt1541DoM6NOXWU9ZuoruxK_2XIMxH2RuylFidEaW1Shmt0m_jKHJATsJBmkIZWE_DZw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-96.606945,33.617928,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Adelbert's Brewery</name>
+				<description><![CDATA[Austin, TX 78758]]></description>
+				<styleUrl>#icon-124</styleUrl>
+				<Point>
+					<coordinates>-97.720642,30.382353,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Austin Beerworks</name>
+				<description><![CDATA[Austin, TX 78758]]></description>
+				<styleUrl>#icon-124</styleUrl>
+				<Point>
+					<coordinates>-97.730224,30.379759999999997,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bearded Eel Craft Brewery</name>
+				<styleUrl>#icon-124-nodesc</styleUrl>
+				<Point>
+					<coordinates>-97.42182500000001,32.956706,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Brash Brewing</name>
+				<styleUrl>#icon-124-nodesc</styleUrl>
+				<Point>
+					<coordinates>-95.40612399999998,29.828122,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Buffalo Bayou Brewing Co</name>
+				<styleUrl>#icon-124-nodesc</styleUrl>
+				<Point>
+					<coordinates>-95.416088,29.775965,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cedar Creek Brewery</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/78kFkVk46kE5wumdofO0OkbJjrWLHu9PSfpEZSq-uVkfxmPIquzEyBEsirOeMKeOoJX44653QV0_7xjE5nk3kTYNrjuMyKqX20M5V4DWwsnXqe2pXJwiQyZM3ovW4rvay4CdwmhW7IE" height="200" width="auto" /><br><br>Kemp, TX 75143]]></description>
+				<styleUrl>#icon-124</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/78kFkVk46kE5wumdofO0OkbJjrWLHu9PSfpEZSq-uVkfxmPIquzEyBEsirOeMKeOoJX44653QV0_7xjE5nk3kTYNrjuMyKqX20M5V4DWwsnXqe2pXJwiQyZM3ovW4rvay4CdwmhW7IE</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-96.23091800000002,32.441695,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Circle Brewing Company</name>
+				<styleUrl>#icon-124-nodesc</styleUrl>
+				<Point>
+					<coordinates>-97.715578,30.391201000000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Community Beer Company</name>
+				<description><![CDATA[Dallas, TX 75207]]></description>
+				<styleUrl>#icon-124</styleUrl>
+				<Point>
+					<coordinates>-96.815758,32.790945,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cornel's Brewing Company</name>
+				<description><![CDATA[Beaumont, TX 77713]]></description>
+				<styleUrl>#icon-124</styleUrl>
+				<Point>
+					<coordinates>-94.26673500000001,30.13453,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Deep Ellum Brewing Company (DEBC)</name>
+				<styleUrl>#icon-124-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.782684,32.78150200000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>FireWheel Brewing Co., LLC</name>
+				<styleUrl>#icon-124-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.57608700000002,32.899827,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Four Corners Brewing</name>
+				<description><![CDATA[Dallas, TX 75212]]></description>
+				<styleUrl>#icon-124</styleUrl>
+				<Point>
+					<coordinates>-96.8309,32.779129,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Franconia Brewing Co</name>
+				<styleUrl>#icon-124-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.609066,33.213417,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Goliad Brewing</name>
+				<styleUrl>#icon-124-nodesc</styleUrl>
+				<Point>
+					<coordinates>-97.39799900000003,28.6933644,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Grapevine Craft Brewery</name>
+				<styleUrl>#icon-124-nodesc</styleUrl>
+				<Point>
+					<coordinates>-97.07474000000002,32.932573,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Guadalupe Brewing Company</name>
+				<description><![CDATA[New Braunfels, TX 78132]]></description>
+				<styleUrl>#icon-124</styleUrl>
+				<Point>
+					<coordinates>-98.163353,29.684762,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hops &amp; Grain Brewing</name>
+				<styleUrl>#icon-124-nodesc</styleUrl>
+				<Point>
+					<coordinates>-97.712601,30.258279,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jester King Craft Brewery</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/OK7C1TektjvPOCMdHC4PH_xlV9HKMYpDrM-Ld_d5IPauo8o2vrAAlEGZEKWSnOHu2Uw7kE_Jiynxr-wTs5zAhTTE2_G646qmi8VSfwKWJcqIwKQPnreV94fRU98EkFaXIM1kD8r8yxA" height="200" width="auto" /><br><br>Austin, TX 78736]]></description>
+				<styleUrl>#icon-124</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/OK7C1TektjvPOCMdHC4PH_xlV9HKMYpDrM-Ld_d5IPauo8o2vrAAlEGZEKWSnOHu2Uw7kE_Jiynxr-wTs5zAhTTE2_G646qmi8VSfwKWJcqIwKQPnreV94fRU98EkFaXIM1kD8r8yxA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-97.995129,30.233431,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Karbach Brewing</name>
+				<description><![CDATA[Houston, TX 77092]]></description>
+				<styleUrl>#icon-124</styleUrl>
+				<Point>
+					<coordinates>-95.460598,29.80585,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lakewood Brewing Company, LLC</name>
+				<styleUrl>#icon-124-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.681358,32.890046,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Live Oak Brewing Co</name>
+				<styleUrl>#icon-124-nodesc</styleUrl>
+				<Point>
+					<coordinates>-97.705546,30.254148000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lone Pint Brewery</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/pc245TevZEuZSxC-FL2K7tytUVjJ52kmuuIaWwToiH7nP0YVbZfmeA8CVFw5AOJcw7bRW1N2CbDGKjdZ4Aw5Og4cD3mlBHtoFIrJtLqvhyitSIb_rK13Hy26RIpMd5WbPqE-__meYJ8BPA" height="200" width="auto" /><br><br>Magnolia, TX 77355]]></description>
+				<styleUrl>#icon-124</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/pc245TevZEuZSxC-FL2K7tytUVjJ52kmuuIaWwToiH7nP0YVbZfmeA8CVFw5AOJcw7bRW1N2CbDGKjdZ4Aw5Og4cD3mlBHtoFIrJtLqvhyitSIb_rK13Hy26RIpMd5WbPqE-__meYJ8BPA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.75140800000001,30.208922000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Independence Brewing Co.</name>
+				<styleUrl>#icon-124-nodesc</styleUrl>
+				<Point>
+					<coordinates>-97.736134,30.211182,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Martin House Brewing</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/lGOfiUD3MXLZy7dW4nicBhWq8SoglGC8i_Hx_B7zjpN0C6y22JOQ5-1JcvLOXfyDxEGIr1ucXqxZMJv6x-ZdrBi2nueBErlAAq-DyMqW6WGSOeUpxF7XSTxcUpq2BbrlkhD44R1zxmjMaQ" height="200" width="auto" /><br><br>Fort Worth, TX 76111]]></description>
+				<styleUrl>#icon-124</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/lGOfiUD3MXLZy7dW4nicBhWq8SoglGC8i_Hx_B7zjpN0C6y22JOQ5-1JcvLOXfyDxEGIr1ucXqxZMJv6x-ZdrBi2nueBErlAAq-DyMqW6WGSOeUpxF7XSTxcUpq2BbrlkhD44R1zxmjMaQ</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-97.30983,32.763656,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>New Braunfels Brewing Co.</name>
+				<description><![CDATA[New Braunfels, TX 78130]]></description>
+				<styleUrl>#icon-124</styleUrl>
+				<Point>
+					<coordinates>-98.146634,29.721671,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>New Republic Brewing Company</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/DqEhgYI3EhMAo3xs58OdcE8k_LTnyBCL9889tP98DuhjbR-jYayA83EtO4zcJbU2fwxicG4OiGhYzOXBRUTujP3OpWDK4CqzDPyumoqmHYaMbiIpijiT-fyz9N96HAAySWXuIw" height="200" width="auto" /><br><br>College Station, TX 77845]]></description>
+				<styleUrl>#icon-124</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/DqEhgYI3EhMAo3xs58OdcE8k_LTnyBCL9889tP98DuhjbR-jYayA83EtO4zcJbU2fwxicG4OiGhYzOXBRUTujP3OpWDK4CqzDPyumoqmHYaMbiIpijiT-fyz9N96HAAySWXuIw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-96.350458,30.564839,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nine Band Brewing</name>
+				<styleUrl>#icon-124-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.67278899999997,33.092748,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>No Label Brewing Co.</name>
+				<styleUrl>#icon-124-nodesc</styleUrl>
+				<Point>
+					<coordinates>-95.816373,29.786648999999997,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Old Omen Brewing</name>
+				<styleUrl>#icon-124-nodesc</styleUrl>
+				<Point>
+					<coordinates>-95.266527,32.3117778,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pedernales Brewing</name>
+				<description><![CDATA[Fredericksburg, TX 78624]]></description>
+				<styleUrl>#icon-124</styleUrl>
+				<Point>
+					<coordinates>-98.868388,30.239188,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Peticolas Brewing Company</name>
+				<styleUrl>#icon-124-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.828527,32.796298,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rabbit Hole Brewing</name>
+				<styleUrl>#icon-124-nodesc</styleUrl>
+				<Point>
+					<coordinates>-97.29244699999998,33.089847,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rahr &amp; Sons Brewery</name>
+				<styleUrl>#icon-124-nodesc</styleUrl>
+				<Point>
+					<coordinates>-97.327385,32.736642,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ranger Creek Brewing &amp; Distilling</name>
+				<styleUrl>#icon-124-nodesc</styleUrl>
+				<Point>
+					<coordinates>-98.39695800000001,29.529789,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Real Ale Brewing</name>
+				<styleUrl>#icon-124-nodesc</styleUrl>
+				<Point>
+					<coordinates>-98.412824,30.112761,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Revolver Brewing</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/sD1cA41xOk7EuJblwOJQQP2xlrBEXoFg5ywVD4B8Iq5Y5mqw0URVks-VlyQM6dKQMiD3QZOwJN1E4XyZj9uIQ7UJzDT-hchN5DEiX0s776YpXqD8ipoWZnJpr9miMAD6Fmnbfw" height="200" width="auto" /><br><br>Granbury, TX 76049]]></description>
+				<styleUrl>#icon-124</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/sD1cA41xOk7EuJblwOJQQP2xlrBEXoFg5ywVD4B8Iq5Y5mqw0URVks-VlyQM6dKQMiD3QZOwJN1E4XyZj9uIQ7UJzDT-hchN5DEiX0s776YpXqD8ipoWZnJpr9miMAD6Fmnbfw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-97.670569,32.419571,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>South Austin Brewing</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/pqDgowTX1OX5wryiXV6iXcljPb9ZnBikqaulmxyxoitK8diCmywhGZ2gKxNF-kd3Gb85YyM5hkKK_4uEWOJXThq27mTFaNavhN918NxMTTSB8wyFmYcsYwn0LdIbX6ZZMjdZOuGhvUg" height="200" width="auto" /><br><br>Austin, TX 78745]]></description>
+				<styleUrl>#icon-124</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/pqDgowTX1OX5wryiXV6iXcljPb9ZnBikqaulmxyxoitK8diCmywhGZ2gKxNF-kd3Gb85YyM5hkKK_4uEWOJXThq27mTFaNavhN918NxMTTSB8wyFmYcsYwn0LdIbX6ZZMjdZOuGhvUg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-97.762719,30.215363999999997,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Southern Star Brewing</name>
+				<styleUrl>#icon-124-nodesc</styleUrl>
+				<Point>
+					<coordinates>-95.442687,30.348948000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Spoetzl Brewery</name>
+				<styleUrl>#icon-124-nodesc</styleUrl>
+				<Point>
+					<coordinates>-97.167378,29.433319,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>St Arnold Brewing Co</name>
+				<styleUrl>#icon-124-nodesc</styleUrl>
+				<Point>
+					<coordinates>-95.34845100000001,29.771213,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Texas Ale Project</name>
+				<styleUrl>#icon-124-nodesc</styleUrl>
+				<Point>
+					<coordinates>-96.81806,32.786156,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Texas Big Beer Brewery</name>
+				<description><![CDATA[Buna, TX 77612]]></description>
+				<styleUrl>#icon-124</styleUrl>
+				<Point>
+					<coordinates>-93.863261,30.458006000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Texian Brewing Co.</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/3XOwj5RDJntS5Ke1aGtDbKy4UeYjyz3A2l4xDc6YQcNmZfJ-Lc5w6TAdA6gmYwPzwtrelGFvsd2YcAY7gBZQAa7ye62tp2NKh8EJHpeF0PCeZQQZK3l5wV2CFe9kSKYHL2mJat5sQ4OFfA" height="200" width="auto" /><br><br>Richmond, TX 77406]]></description>
+				<styleUrl>#icon-124</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/3XOwj5RDJntS5Ke1aGtDbKy4UeYjyz3A2l4xDc6YQcNmZfJ-Lc5w6TAdA6gmYwPzwtrelGFvsd2YcAY7gBZQAa7ye62tp2NKh8EJHpeF0PCeZQQZK3l5wV2CFe9kSKYHL2mJat5sQ4OFfA</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.743339,29.613978999999997,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Thirsty Planet Brewing Co.</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/Th4MjDanUJfIj2dK5m1YeXbU7Fa7ISJb4w1nVOuzYyRADl5huDur_ktp6Fop7UujftxC4k31v-Bh9j9TsQoFZR1LcypOw3O7TCE6dGlOLQjzIS9f9MoPjGeuZI8nDwFP80oJEtKKbmg" height="200" width="auto" /><br><br>Austin, TX 78736]]></description>
+				<styleUrl>#icon-124</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/Th4MjDanUJfIj2dK5m1YeXbU7Fa7ISJb4w1nVOuzYyRADl5huDur_ktp6Fop7UujftxC4k31v-Bh9j9TsQoFZR1LcypOw3O7TCE6dGlOLQjzIS9f9MoPjGeuZI8nDwFP80oJEtKKbmg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-97.952206,30.225811000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Twisted X Brewing Company</name>
+				<styleUrl>#icon-124-nodesc</styleUrl>
+				<Point>
+					<coordinates>-97.877207,30.514976000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wicked Beaver Brewing</name>
+				<description><![CDATA[10611 PR 1320, Wolfforth, TX]]></description>
+				<styleUrl>#icon-124</styleUrl>
+				<Point>
+					<coordinates>-102.022623,33.494885,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Barber Shop</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/ccRx95exZ9vp1o04pQmOdpYyKYk8wksNHgPaVlz9kLGdh43CXV7rRdIycNQ6lcizwzmqbeUxFpgC7CBpi0GDJupU45-RVKU-6i8-B8UPaQzo6zhRfmxN_1yPlLqlLs71uB3Daq9fKts" height="200" width="auto" /><br><br>Dripping Springs, TX 78620]]></description>
+				<styleUrl>#icon-24</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/ccRx95exZ9vp1o04pQmOdpYyKYk8wksNHgPaVlz9kLGdh43CXV7rRdIycNQ6lcizwzmqbeUxFpgC7CBpi0GDJupU45-RVKU-6i8-B8UPaQzo6zhRfmxN_1yPlLqlLs71uB3Daq9fKts</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.088786,30.192603,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bastrop Brewhouse</name>
+				<styleUrl>#icon-24-nodesc</styleUrl>
+				<Point>
+					<coordinates>-97.320993,30.109823,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Big Texan Brewery</name>
+				<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/jLqC3W8nLKTMA-tC1PMXBpTrGRt6xHsV9fT10ufYvsdtxDKLJiYrkIT2BkV3obkRDePYBlzUPzeQnpTy4Vcv13ME-1Eo458hmnLBPabMyIdF5_SQZj_PGXMxIhm1F-k5SpGtaUeAkJMw" height="200" width="auto" /><br><br>Amarillo, TX 79118]]></description>
+				<styleUrl>#icon-24</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh6.googleusercontent.com/proxy/jLqC3W8nLKTMA-tC1PMXBpTrGRt6xHsV9fT10ufYvsdtxDKLJiYrkIT2BkV3obkRDePYBlzUPzeQnpTy4Vcv13ME-1Eo458hmnLBPabMyIdF5_SQZj_PGXMxIhm1F-k5SpGtaUeAkJMw</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-101.743988,35.193072,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Black Star Co-op Pub &amp; Brewery</name>
+				<styleUrl>#icon-24-nodesc</styleUrl>
+				<Point>
+					<coordinates>-97.71889300000001,30.33825,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Blue Star Brewing</name>
+				<styleUrl>#icon-24-nodesc</styleUrl>
+				<Point>
+					<coordinates>-98.495495,29.410061000000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Brews Brothers Brew Pub</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/tpUr26iU7AAwz-TWl_qTL7urKc22QwVZ6-dB3vxbqlUNUXWnPRth-hSvRJUisEHmZbBoxSlz8wshW4lRBeQ5656LHEjOh4QMXBRztXbx8R3oH4cI5VKw3Yi66xNT3SBAlP6lVtXff4c" height="200" width="auto" /><br><br>Galveston, TX 77550]]></description>
+				<styleUrl>#icon-24</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/tpUr26iU7AAwz-TWl_qTL7urKc22QwVZ6-dB3vxbqlUNUXWnPRth-hSvRJUisEHmZbBoxSlz8wshW4lRBeQ5656LHEjOh4QMXBRztXbx8R3oH4cI5VKw3Yi66xNT3SBAlP6lVtXff4c</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-94.79581,29.306788999999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Darkside Fermentation</name>
+				<styleUrl>#icon-24-nodesc</styleUrl>
+				<Point>
+					<coordinates>-97.940385,29.883667000000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Draught House Pub &amp; Brewery</name>
+				<styleUrl>#icon-24-nodesc</styleUrl>
+				<Point>
+					<coordinates>-97.742786,30.31096,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dodging Duck Brewhaus</name>
+				<styleUrl>#icon-24-nodesc</styleUrl>
+				<Point>
+					<coordinates>-98.725933,29.789890000000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Double Horn Brewing</name>
+				<description><![CDATA[Marble Falls, TX 78654]]></description>
+				<styleUrl>#icon-24</styleUrl>
+				<Point>
+					<coordinates>-98.276766,30.571103000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Eola School Restaurant</name>
+				<styleUrl>#icon-24-nodesc</styleUrl>
+				<Point>
+					<coordinates>-100.088818,31.400975,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Faust Hotel</name>
+				<styleUrl>#icon-24-nodesc</styleUrl>
+				<Point>
+					<coordinates>-98.122743,29.701674,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fredericksburg Brewing Co</name>
+				<styleUrl>#icon-24-nodesc</styleUrl>
+				<Point>
+					<coordinates>-98.869634,30.272694000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Freetail Brewing Co.</name>
+				<styleUrl>#icon-24-nodesc</styleUrl>
+				<Point>
+					<coordinates>-98.561675,29.601632999999996,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jaxon's Restaurant &amp; Brewery</name>
+				<styleUrl>#icon-24-nodesc</styleUrl>
+				<Point>
+					<coordinates>-106.392521,31.781319999999997,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Middleton Brewing Company</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/B90jG_MElrGLjy0X_a7qoszHBQKD2R2O8CrjEx1iB6wJPqeS9fxo4TP-0HAZwoan-a_56WlRJb1gSRA4zwcdaZMq-XLq3eMNhjsSrPIu9e5CwrWZyg1vyvkAcOESYFdhcaBOA393cf4" height="200" width="auto" /><br><br>Wimberley, TX 78676]]></description>
+				<styleUrl>#icon-24</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/B90jG_MElrGLjy0X_a7qoszHBQKD2R2O8CrjEx1iB6wJPqeS9fxo4TP-0HAZwoan-a_56WlRJb1gSRA4zwcdaZMq-XLq3eMNhjsSrPIu9e5CwrWZyg1vyvkAcOESYFdhcaBOA393cf4</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.101616,30.046151,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>North by Northwest Restaurant &amp; Brewery</name>
+				<styleUrl>#icon-24-nodesc</styleUrl>
+				<Point>
+					<coordinates>-97.738493,30.390948,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Flix Brewhouse</name>
+				<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/aKm_jMTgZ5af9eY_y5_96nqMno-K7sg8UxKac-cfBSTXODn5oh7pNT7jh3hOKlJzv0oZAp-CoR0Kpl4zKzb-7hjV5id-0UYgenM5yEQu9g6LOcwqSfXPa8C-_2oGBGZfOHhGwg" height="200" width="auto" /><br><br>Round Rock, TX 78681]]></description>
+				<styleUrl>#icon-24</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh5.googleusercontent.com/proxy/aKm_jMTgZ5af9eY_y5_96nqMno-K7sg8UxKac-cfBSTXODn5oh7pNT7jh3hOKlJzv0oZAp-CoR0Kpl4zKzb-7hjV5id-0UYgenM5yEQu9g6LOcwqSfXPa8C-_2oGBGZfOHhGwg</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-97.678456,30.491506,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Middleton Brewing LLC</name>
+				<styleUrl>#icon-24-nodesc</styleUrl>
+				<Point>
+					<coordinates>-98.09174100000001,29.941055,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Padre Island Brewing Co.</name>
+				<styleUrl>#icon-24-nodesc</styleUrl>
+				<Point>
+					<coordinates>-97.168482,26.109241,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pecan Street Brewing</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/3rw0VSHv0kd7E2JGrI73in0Q4ta87879g0Ja4njwww5cFbEfS3SEXgjnAl0tgXZPgXkNqHIAQCSxQgMB51s-4J_T-3oihCRfzczZkpMtjDYNteEtvt___jzumzX5a9vR5-Z4tQ" height="200" width="auto" /><br><br>Johnson City, TX 78636]]></description>
+				<styleUrl>#icon-24</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/3rw0VSHv0kd7E2JGrI73in0Q4ta87879g0Ja4njwww5cFbEfS3SEXgjnAl0tgXZPgXkNqHIAQCSxQgMB51s-4J_T-3oihCRfzczZkpMtjDYNteEtvt___jzumzX5a9vR5-Z4tQ</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.41193,30.277681,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pinthouse Pizza</name>
+				<styleUrl>#icon-24-nodesc</styleUrl>
+				<Point>
+					<coordinates>-97.738915,30.318690999999998,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Port Aransas Brewing Company</name>
+				<styleUrl>#icon-24-nodesc</styleUrl>
+				<Point>
+					<coordinates>-97.061104,27.836185,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Uncle Billy's</name>
+				<styleUrl>#icon-24-nodesc</styleUrl>
+				<Point>
+					<coordinates>-97.761326,30.262062,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Whip In</name>
+				<styleUrl>#icon-24-nodesc</styleUrl>
+				<Point>
+					<coordinates>-97.739484,30.238017,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chimera Brewing Co</name>
+				<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/Nxhtjvud3iPw_aTehgilRExJGlI0eIAF5KcKvGmdm5mwLP_v5zuK3GwqqfCQlSiN5ct-A8gTXGrFVtAUGv9ApUEhQ3DNStTBifuNBbGCcpMfqAotpWtzu8V-RDdr07jQsYjj04CSZnE" height="200" width="auto" /><br><br>Fort Worth, TX 76104]]></description>
+				<styleUrl>#icon-24</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh3.googleusercontent.com/proxy/Nxhtjvud3iPw_aTehgilRExJGlI0eIAF5KcKvGmdm5mwLP_v5zuK3GwqqfCQlSiN5ct-A8gTXGrFVtAUGv9ApUEhQ3DNStTBifuNBbGCcpMfqAotpWtzu8V-RDdr07jQsYjj04CSZnE</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-97.335319,32.730385,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>B52 Brewing</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/Kn1oF3hvGY3bkb_lwqhI8IxXDN23OX3NU1d1mMoxgY54wBoEspNUUl-uPZ5XQFMQ7IMQsStY-xJFgjYs0cgLH0Mx-bIH1Oi3sfjLlsT_1zGkj2Rf5RM74F7ZnE4757TuPsEgvRaxR1V7ZQ" height="200" width="auto" /><br><br>Conroe, TX 77304]]></description>
+				<styleUrl>#icon-62</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/Kn1oF3hvGY3bkb_lwqhI8IxXDN23OX3NU1d1mMoxgY54wBoEspNUUl-uPZ5XQFMQ7IMQsStY-xJFgjYs0cgLH0Mx-bIH1Oi3sfjLlsT_1zGkj2Rf5RM74F7ZnE4757TuPsEgvRaxR1V7ZQ</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.55133600000002,30.339388,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ballyhoo Brewing</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/is-ZNhVH7aLacy1fMWUB-Rcjt1q4LCOi6Fp6J7ejz4FT4vxN-XtJ0a6DE5Kc7CpeacI4ObICgPBYB_dsotU1yLaWWpYK3siEF3MtDODJ8oSRTfekhsX-75jbdLxV7pJerz-ohGmfuq4" height="200" width="auto" /><br><br>Houston, TX 77019]]></description>
+				<styleUrl>#icon-62</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/is-ZNhVH7aLacy1fMWUB-Rcjt1q4LCOi6Fp6J7ejz4FT4vxN-XtJ0a6DE5Kc7CpeacI4ObICgPBYB_dsotU1yLaWWpYK3siEF3MtDODJ8oSRTfekhsX-75jbdLxV7pJerz-ohGmfuq4</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-95.40226100000001,29.755887,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Branchline Brewing Co.</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/dlj2tNnSw-TULlg4CPNrBs8Dp3X-5Nh4eNiRZMGpCzijsiLdZU2lklfDZ-XvswDPz8ERZI8AvT82-nGaYC0qY1Q3Cc1tSvq_zZVSvFKj7S0Wvv2FBstQh22spg8mnkFH5F6vLGTYNOmuSQ" height="200" width="auto" /><br><br>San Antonio, TX 78247]]></description>
+				<styleUrl>#icon-62</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/dlj2tNnSw-TULlg4CPNrBs8Dp3X-5Nh4eNiRZMGpCzijsiLdZU2lklfDZ-XvswDPz8ERZI8AvT82-nGaYC0qY1Q3Cc1tSvq_zZVSvFKj7S0Wvv2FBstQh22spg8mnkFH5F6vLGTYNOmuSQ</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-98.428435,29.560266000000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Brewery Dada</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/MqZImUH0XNSr5l_8FIIiMzrSjaje530b8ACIHmu8bgcRzebAncrmEbmLmjDkAHbWgVeWwIIj2uIXyiZOKPDSQcTpxUzGLr5BwSxkPNOMpYkhqPh3Mw8ThAAF_v35RMznCUlH4Bk8e2Q" height="200" width="auto" /><br><br>Austin, TX 78701]]></description>
+				<styleUrl>#icon-62</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/MqZImUH0XNSr5l_8FIIiMzrSjaje530b8ACIHmu8bgcRzebAncrmEbmLmjDkAHbWgVeWwIIj2uIXyiZOKPDSQcTpxUzGLr5BwSxkPNOMpYkhqPh3Mw8ThAAF_v35RMznCUlH4Bk8e2Q</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-97.743171,30.267119,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kreuz Creek Brewing</name>
+				<description><![CDATA[Stafford, TX 77477]]></description>
+				<styleUrl>#icon-62</styleUrl>
+				<Point>
+					<coordinates>-95.593799,29.634042999999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Yellow House Canyon Brew Works</name>
+				<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/I6gCRaqzlW8oMrPHBSuCBAneHnT5gXxOUGJJVo8GhK4LXlVIgLZe3fwTLbsHFqoU-NgxdD_ngzS2F1fiLmgjHSpVB0e6zSrTeInhB4-OcJrsAU9QA0lL9hvvEQ9QU7FJfdiPNg13JkFh" height="200" width="auto" /><br><br>Lubbock, TX 79415]]></description>
+				<styleUrl>#icon-62</styleUrl>
+				<ExtendedData>
+					<Data name='gx_media_links'>
+						<value>https://lh4.googleusercontent.com/proxy/I6gCRaqzlW8oMrPHBSuCBAneHnT5gXxOUGJJVo8GhK4LXlVIgLZe3fwTLbsHFqoU-NgxdD_ngzS2F1fiLmgjHSpVB0e6zSrTeInhB4-OcJrsAU9QA0lL9hvvEQ9QU7FJfdiPNg13JkFh</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-101.8705,33.605248,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-124-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/124-red.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-124-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/124-red.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-124'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-124-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-124-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-124-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/124-red.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-124-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/124-red.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-124-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-124-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-124-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-24-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/24-blue.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-24-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/24-blue.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-24'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-24-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-24-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-24-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/24-blue.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-24-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/24-blue.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-24-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-24-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-24-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-62-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/62-green.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-62-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/62-green.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-62'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-62-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-62-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

@@ -1,0 +1,1146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Texas's Best BBQ</name>
+		<description><![CDATA[Locations of Texas's Best BBQ as selected by Texas Monthly 2003 and 2008 plus misc by ALC. Ratings and years noted. Honorable Mentions are marked with yellow tacks. A few non-TX monthly selections on there (less than five), because there was something there I liked.<br>The Texas Monthly articles are at: http://www.texasmonthly.com/2008-06-01/feature.php and http://www.texasmonthly.com/preview/2003-05-01/feature2]]></description>
+		<Folder>
+			<name>Untitled layer</name>
+			<Placemark>
+				<name>City Market</name>
+				<description><![CDATA[633 E Davis St<br>Luling, TX 78648<br>(830) 875-9019]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.648365,29.681425000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Black's Barbecue</name>
+				<description><![CDATA[215 N Main St<br>Lockhart, TX 78644<br>(512) 398-2712<br><br>2003 (not on 2008)]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.672801,29.886318999999997,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Snow's Barbeque</name>
+				<description><![CDATA[516 Main St<br>Lexington, TX 78947<br>(979) 773-4640<br>Top 5 2008]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.009747,30.413071,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Kreuz Market</name>
+				<description><![CDATA[619 N Colorado St<br>Lockhart, TX 78644<br>(512) 398-2361]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.670923,29.889648,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Harold's Pit Barbecue</name>
+				<description><![CDATA[1305 Walnut St<br>Abilene, TX 79601<br>(325) 672-4451<br><br>4.5 (2003)]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-99.730284,32.463541,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cripple Creek BBQ</name>
+				<description><![CDATA[500 S Palestine St<br>Athens, TX 75751<br>(903) 677-4226]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-95.85370300000001,32.198362,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lamberts Downtown Barbeque</name>
+				<description><![CDATA[401 W 2nd St<br>Austin, TX 78701<br>(512) 494-1500]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.747663,30.265302,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Iron Works Barbecue</name>
+				<description><![CDATA[100 Red River St<br>Austin, TX 78701<br>(512) 478-4855]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.738947,30.262214,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Railhead Smokehouse</name>
+				<description><![CDATA[2900 Montgomery St<br>Fort Worth, TX 76107<br>(817) 738-9808<br><br><br>4.5 (2003)]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.370033,32.731742,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Goode Co Barbeque</name>
+				<description><![CDATA[5109 Kirby Dr<br>Houston, TX 77098<br>(713) 522-2530]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-95.418654,29.727097,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Goode Co Barbeque</name>
+				<description><![CDATA[8911 Katy Fwy<br>Houston, TX 77024<br>(713) 464-1901]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-95.508312,29.783927,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Thelma's Bar B Que</name>
+				<description><![CDATA[1020 Live Oak St<br>Houston, TX 77003<br>(713) 228-2262]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-95.351339,29.748550000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pappas Bar-BQ</name>
+				<description><![CDATA[1217 Pierce St<br>Houston, TX 77002<br>(713) 659-1245<br><br>Not on TX Monthly's list, but on here for the]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-95.368945,29.748366000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mann's Smokehouse Bar-BQ</name>
+				<description><![CDATA[8624 Research Blvd<br>Austin, TX 78758<br>(512) 459-5077]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.717738,30.362976,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Willy Ray's BBQ &amp; Catering</name>
+				<description><![CDATA[145 Interstate 10 N<br>Beaumont, TX 77707<br>(409) 832-7770]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-94.136423,30.081347,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Schoepf's Old Time Pit BBQ &amp; Catering</name>
+				<description><![CDATA[702 E Central Ave<br>Belton, TX 76513<br>(254) 939-1151]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.45734200000001,31.054595,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bertram Smoke Haus</name>
+				<description><![CDATA[110 W State Highway 29<br>Bertram, TX 78605<br>(512) 355-2302]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-98.05567,30.744132,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Coleman Barbecue</name>
+				<description><![CDATA[604 N Martin Luther King Dr<br>Clarksville, TX 75426<br>(903) 427-5131<br><br>Honorable Mention (2003)]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-95.057601,33.614251,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Thompson's Barbecue</name>
+				<description><![CDATA[1210 E Loop 304<br>Crockett, TX 75835<br>(936) 544-5193<br><br>Honorable Mention (2003)]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-95.436696,31.316429,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Baker's Ribs: Dallas</name>
+				<description><![CDATA[2724 Commerce St<br>Dallas, TX 75226<br>(214) 748-5433]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-96.783811,32.783074,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Smitty's Market</name>
+				<description><![CDATA[208 S Commerce St<br>Lockhart, TX 78644<br>(512) 398-9344]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.670978,29.883346,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TC's Ponderosa Grocery &amp; Deli</name>
+				<description><![CDATA[136 Highway 82 W<br>Dickens, TX 79229<br>(806) 623-5260]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-100.849528,33.620649,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Austin's Barbeque &amp; Catering</name>
+				<description><![CDATA[507 E Main St<br>Eagle Lake, TX 77434<br>(979) 234-5250]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-96.33138900000002,29.585911,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vincek's Smokehouse</name>
+				<description><![CDATA[Highway 60<br>East Bernard, TX 77435<br>(979) 335-7921]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-96.090278,29.599763000000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Salt Lick BBQ</name>
+				<description><![CDATA[18300 FM 1826<br>Driftwood, TX 78619<br>(512) 858-4959<br><br>Honorable Mention 2008]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-98.016849,30.131513000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mc Millan's Bar-BQ &amp; Catering</name>
+				<description><![CDATA[9913 US Highway 59 N<br>Fannin, TX 77960<br>(361) 645-2326]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.23311,28.69754,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cousin's Pit Barbecue</name>
+				<description><![CDATA[6262 Mccart Ave<br>Fort Worth, TX 76133<br>(817) 346-2511]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.363566,32.653814,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>City Meat Market</name>
+				<description><![CDATA[101 W Austin St<br>Giddings, TX 78942<br>(979) 542-2740]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-96.937344,30.182890999999998,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Smokey Joe's BBQ</name>
+				<description><![CDATA[102 N 77 Sunshine Strip,<br>Harlingen, TX 78550<br>(956) 364-1266]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.679946,26.192801,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>McBee's Bar-B-Que</name>
+				<description><![CDATA[1301 19th St<br>Hondo, TX 78861<br>(830) 426-4045]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-99.142829,29.347447999999996,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Burns Bar BQ</name>
+				<description><![CDATA[8307 De Priest St<br>Houston, TX 77088<br>(281) 445-7574]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-95.420732,29.876702000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Virgie's BBQ</name>
+				<description><![CDATA[5535 Gessner Dr<br>Houston, TX 77041<br>(713) 466-6525]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-95.545223,29.847343,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Louie Mueller Barbecue</name>
+				<description><![CDATA[206 W 2nd St<br>Taylor, TX 76574<br>(512) 352-6206]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.410678,30.568632999999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>New Zion Missionary Baptist Ch</name>
+				<description><![CDATA[2601 Montgomery Rd<br>Huntsville, TX 77340<br>(936) 295-2349]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-95.54398,30.703747,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Stacy's Bar-BQ</name>
+				<description><![CDATA[1217 S Jackson St<br>Jacksonville, TX 75766<br>(903) 586-1951]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-95.264716,31.953252,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Buzzie's Bar-BQ</name>
+				<description><![CDATA[213 Schreiner St<br>Kerrville, TX 78028<br>(830) 257-4540]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-99.143313,30.053197,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Big Earl's Texas Style BBQ</name>
+				<description><![CDATA[401 Sidney Baker St S<br>Kerrville, TX 78028<br>(830) 896-5656]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-99.144509,30.039669000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Country Tavern Barbecue</name>
+				<description><![CDATA[State Highway 31 & FM 2767<br>Kilgore, TX 75662<br>(903) 984-9954]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-94.97104,32.37794,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Caroline's Quality &amp; Quantity</name>
+				<description><![CDATA[320 E 3rd St<br>Kountze, TX 77625<br>(409) 246-8050]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-94.175353,30.349261,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Big Daddy's Roadhouse BBQ</name>
+				<description><![CDATA[1000 Highway 78<br>Lavon, TX 75166<br>(972) 843-5200]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-96.456703,33.022379,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Coopers Bar B Que Restaurant</name>
+				<description><![CDATA[604 W Young St<br>Llano, TX 78643<br>(325) 247-5713]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-98.681636,30.759519,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cooper's Bar-BQ</name>
+				<description><![CDATA[502 San Antonio St<br>Mason, TX 76856<br>(325) 347-6897]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-99.224776,30.742175000000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Casstevens Cash &amp; Carry</name>
+				<description><![CDATA[11025 Fm-917<br>Lillian, TX 76061<br>(817) 790-2545]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.185868,32.506943,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Wild Blue Barbecue</name>
+				<description><![CDATA[31230 Highway 100<br>Los Fresnos, TX 78566<br>(956) 233-8185]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.51978,26.074977,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tom &amp; Bingo's Hickory Pit BBQ</name>
+				<description><![CDATA[3006 34th St<br>Lubbock, TX 79410<br>(806) 799-1514]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-101.879231,33.563309,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Luling Bar-BQ</name>
+				<description><![CDATA[709 E Davis St<br>Luling, TX 78648<br>(830) 875-3848]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.646204,29.681163000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Whup's Boomerang Barbecue</name>
+				<description><![CDATA[1203 Bennett St<br>Marlin, TX 76661<br>(254) 883-5770]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-96.89623,31.294873999999997,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pappy's Bar BQ</name>
+				<description><![CDATA[1901 S Stockton Ave<br>Monahans, TX 79756<br>(432) 943-9300]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-102.891765,31.576646000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Van's Barbeque</name>
+				<description><![CDATA[Exit 65 Ih 37<br>Oakville, TX 78060<br>(361) 786-3995]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-98.182065,28.461696,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Baby J's Bar-B-Que &amp; Fish</name>
+				<description><![CDATA[FM 2419 at U.S. 287<br>Palestine, TX 75801<br>(903) 729-8402<br><br>4 (2008)]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-95.58581,31.709879999999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Scholl Brothers Bar BQ</name>
+				<description><![CDATA[1528 Lamar Ave<br>Paris, TX 75460<br>(903) 739-8080]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-95.540285,33.661235,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hash Knife</name>
+				<description><![CDATA[8131 N Highway 281<br>Mineral Wells, TX 76067<br>(940) 325-5150]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-98.074444,32.921684,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cowpokes TExas-Style Bar-B-Que</name>
+				<description><![CDATA[855 W. Comal (Texas Hwy. 140)<br>Pearsall, TX 78061<br>(830) 334-8000<br><br>4.25 (2008)]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-99.105561,28.892442000000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Smoke House</name>
+				<description><![CDATA[3306 Roland Rd<br>San Antonio, TX 78210<br>(210) 333-9548]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-98.434288,29.396749,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Longhorn Cattle Company Barbeque &amp; Steak Restaurant</name>
+				<description><![CDATA[3055 W Expressway 83<br>San Benito, TX 78586<br>(956) 399-4400]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.669039,26.15064,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>OO Smoke House</name>
+				<description><![CDATA[200 S Montgomery St<br>Sherman, TX 75090<br>(903) 892-3435]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-96.606687,33.636016,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Opie's Barbecue</name>
+				<description><![CDATA[9504 E State Highway 71<br>Spicewood, TX 78669<br>(830) 693-8660]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-98.159467,30.461603000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Taylor Cafe</name>
+				<description><![CDATA[101 N Main St<br>Taylor, TX 76574<br>(512) 352-8475]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.409383,30.567708000000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Stanley's Famous Pit BBQ</name>
+				<description><![CDATA[525 S Beckham Ave<br>Tyler, TX 75702<br>(903) 593-0311<br><br>4 (2003)]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-95.293895,32.344332,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Beans N Things Bar-B-Que</name>
+				<description><![CDATA[1700 E Amarillo Blvd # A<br>Amarillo, TX 79107<br>(806) 373-7383]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-101.81407100000001,35.22194,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hard-Eight Pit Bar B Que</name>
+				<description><![CDATA[2010 S Bridge St<br>Brady, TX 76825<br>(325) 597-1936]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-99.335673,31.11561,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Baby Back Shak</name>
+				<description><![CDATA[1800 S Akard St<br>Dallas, TX 75215<br>(214) 428-7427]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-96.790105,32.767866,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Willie B's Barbeque No 2</name>
+				<description><![CDATA[114 E Loeb St<br>Edinburg, TX 78541<br>(956) 318-1373]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-98.161706,26.304417,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Novosad's BBQ &amp; Sausage Market</name>
+				<description><![CDATA[105 S La Grange St<br>Hallettsville, TX 77964<br>(361) 798-2770]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-96.942373,29.444639,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Longhorn Barbeque</name>
+				<description><![CDATA[Hebbronville, TX<br>361-527-2566<br><br>Honorable Mention 2008]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-98.67837,27.30716,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>McBee's Bar-B-Que</name>
+				<description><![CDATA[1303 Zanderson Ave<br>Jourdanton, TX 78026<br>(830) 769-2634]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-98.546427,28.918375,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Carter's Bar-B-Que</name>
+				<description><![CDATA[519 S Eastman Rd<br>Longview, TX 75602<br>(903) 236-3271]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-94.707295,32.486216,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>The Pit Bar-B-Que Texas-Style</name>
+				<description><![CDATA[18200 FM 1488<br>Magnolia, TX 77354<br>281-356-7489<br><br>Honorable Mention 2008]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-95.747836,30.216338999999998,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lone Star Bar-BQ</name>
+				<description><![CDATA[3619 N 10th St<br>Mcallen, TX 78501<br>(956) 664-9988]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-98.224607,26.235516,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mc Bee's Barbecue</name>
+				<description><![CDATA[309 2nd St<br>Pleasanton, TX 78064<br>(830) 569-2602]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-98.479972,28.964212,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cotten's Bar BQ</name>
+				<description><![CDATA[Highway 77<br>Robstown, TX 78380<br>(361) 767-9973]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-97.63601000000001,27.81956,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fuschak's Pit Bar-BQ</name>
+				<description><![CDATA[1701 S I H 35<br>San Marcos, TX 78666<br>(512) 353-2712]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-97.947823,29.861179,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Zimmerhanzel's Bar-B-Que</name>
+				<description><![CDATA[307 Royston St<br>Smithville, TX 78957<br>(512) 237-4244]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-97.163311,30.010883000000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hard Eight Barbeque</name>
+				<description><![CDATA[1091 Glen Rose Rd<br>Stephenville, TX 76401<br>(254) 968-5552]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-98.188556,32.212152,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Big Boys Barbecue</name>
+				<description><![CDATA[2117 Lamar St<br>Sweetwater, TX 79556<br>(325) 235-2700]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-100.397727,32.447399,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BBQ World Headquarters</name>
+				<description><![CDATA[6701 Burnet Rd<br>Austin, TX 78757<br>(512) 323-9112]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.738512,30.342875000000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>John Mueller's Bbq</name>
+				<description><![CDATA[1917 Manor Rd<br>Austin, TX 78722<br>(512) 236-0283<br><br>4.5 (2003)]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.721544,30.283853,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Burnet County Bar BQ</name>
+				<description><![CDATA[616 Buchanan Dr<br>Burnet, TX 78611<br>(512) 756-6468]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-98.235163,30.757750000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Cattle Exchange</name>
+				<description><![CDATA[2nd & Main St<br>Canadian, TX 79014<br>(806) 323-6755]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-100.38484,35.91495,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>McKenzie's Barbeque</name>
+				<description><![CDATA[1501 N Frazier St<br>Conroe, TX 77301<br>(936) 539-4300]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-95.464634,30.323321,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bar-BQ Man Restaurant</name>
+				<description><![CDATA[4931 Ih 37<br>Corpus Christi, TX 78408<br>(361) 888-4248]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.44598600000002,27.802742000000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Baker's Ribs</name>
+				<description><![CDATA[4844 Greenville Ave<br>Dallas, TX 75206<br>(214) 373-0082]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-96.769976,32.846807,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sonny Bryan's Smokehouse</name>
+				<description><![CDATA[2202 Inwood Rd<br>Dallas, TX 75235<br>(214) 357-7120]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-96.840857,32.817437,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Crosstown Bar-BQ</name>
+				<description><![CDATA[202 S Avenue C<br>Elgin, TX 78621<br>(512) 281-5594]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.37079,30.345638999999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Chris' Brisket DBA The Brisket BBQ</name>
+				<description><![CDATA[11420 Rojas Drive<br>El Paso, TX 79936<br>(915) 595-0114]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-106.318426,31.739967,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Longoria's BBQ</name>
+				<description><![CDATA[100 Christopher Dr<br>Fort Worth, TX 76140<br>(817) 568-9494]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.29375000000002,32.631021,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Angelo's Barbecue</name>
+				<description><![CDATA[2533 White Settlement Rd<br>Fort Worth, TX 76107<br>(817) 332-0357]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.351564,32.758996,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ranch House Bar-B-Que</name>
+				<description><![CDATA[1408 NE Big Bend Trl<br>Glen Rose, TX 76043<br>(254) 897-3441<br><br>4.5 (2003)]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.740846,32.24599,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lee's Hickory Smoked BBQ</name>
+				<description><![CDATA[103 Schoolhouse Rd<br>Haslet, TX 76052<br>(817) 439-5337]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.347755,32.974207,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bob's Barbecue</name>
+				<description><![CDATA[1205 Pope St<br>Henderson, TX 75652<br>(903) 657-8301]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-94.78499,32.161298,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jackson's Smokehouse</name>
+				<description><![CDATA[301 N. Franklin (TX Hwy 95)<br>Holland, TX 76534<br>254-657-7107<br><br>3.5 (2003)]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.401167,30.879637000000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>cb's Bar-B-Que</name>
+				<description><![CDATA[728 N 14th Street<br>Kingsville, TX 78363<br>(361) 516-1688]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.856132,27.523134,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lazy H Smoke House</name>
+				<description><![CDATA[811 N Margaret Ave<br>Kirbyville, TX 75956<br>(409) 423-3309<br><br>4.5 (2003)]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-93.89366,30.668717000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Willie B's Barbeque</name>
+				<description><![CDATA[320 S Alamo Rd<br>Alamo, TX 78516<br>(956) 702-1370<br><br>Honorable Mention (2003)]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-98.123585,26.181617,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tommy's Bar-B-Que</name>
+				<description><![CDATA[6282 US Highway 59 N<br>Atlanta, TX 75551<br>(903) 796-5719]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-94.262243,33.069157,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>House Park Bar-BQ</name>
+				<description><![CDATA[900 W 12th St<br>Austin, TX 78703<br>(512) 472-9621]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-97.749858,30.276450999999998,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Smitty's Bar-BQ</name>
+				<description><![CDATA[708 W Austin Ave<br>Brownwood, TX 76801<br>(325) 646-5922]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-98.989225,31.721016000000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pete's Barbecue &amp; Bait Stand</name>
+				<description><![CDATA[609 Highway 90 W<br>Castroville, TX 78009<br>(830) 931-2829]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-98.865972,29.354983,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bunkhouse Barbeque</name>
+				<description><![CDATA[101 S Avenue G<br>Clifton, TX 76634<br>(254) 675-8409]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-97.576986,31.782312,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Woody's</name>
+				<description><![CDATA[17157 S US Highway 377<br>Dublin, TX 76446<br>(254) 445-3737]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-98.318606,32.121079,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Prasek's Hillje Smokehouse</name>
+				<description><![CDATA[Highway 59 S<br>El Campo, TX 77437<br>(979) 543-8312]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-96.28572,29.17523,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tony's the Pit Bar-BQ</name>
+				<description><![CDATA[1700 Myrtle Ave<br>El Paso, TX 79901<br>(915) 546-9140]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-106.471274,31.767904,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>North Main Bar BQ</name>
+				<description><![CDATA[406 N Main St<br>Euless, TX 76039<br>(817) 283-0884]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-97.082626,32.842029,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Hickory Stick Bar-BQ</name>
+				<description><![CDATA[900 E Enon Ave<br>Fort Worth, TX 76140<br>(817) 478-9997]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-97.266566,32.63098,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dotch's Bar BQ</name>
+				<description><![CDATA[6524 Meadowbrook Drive<br>Fort Worth, TX 76115<br>(817) 654-3760]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-97.218222,32.746045,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dozier's Grocery &amp; Market Inc</name>
+				<description><![CDATA[8222 FM 359 Rd<br>Fulshear, TX 77441<br>(281) 346-1411]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-95.900466,29.693820000000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lazy T's BBQ</name>
+				<description><![CDATA[600 N US Highway 281<br>Hamilton, TX 76531<br>(254) 386-4466]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-98.11955,31.715910000000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Smoke Shack</name>
+				<description><![CDATA[702 S Rice St<br>Hamilton, TX 76531<br>(254) 386-5246]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-98.126288,31.698056000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Billy Bob's Backyard Barbq</name>
+				<description><![CDATA[1905 19th St<br>Hondo, TX 78861<br>(830) 426-5345]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-99.148944,29.346891000000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ronnie's Ice House Barbeque</name>
+				<description><![CDATA[Highway 281 & Hwy 290<br>Johnson City, TX 78636<br>(830) 868-7553]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-98.40362,30.27686,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Laird's Barbeque &amp; Catering</name>
+				<description><![CDATA[1600 Ford St<br>Llano, TX 78643<br>(325) 247-5234]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-98.67587600000002,30.74234,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Boss Hog's Bar B Que &amp; Burgers</name>
+				<description><![CDATA[718 Live Oak St<br>Marlin, TX 76661<br>(254) 883-5180]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-96.885628,31.306289,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Porter's Bar-BQ &amp; Catering</name>
+				<description><![CDATA[Midland, TX 79703<br>(432) 664-7427]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-102.130631,31.976673,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Granzin Bar-BQ</name>
+				<description><![CDATA[660 W San Antonio St<br>New Braunfels, TX 78130<br>(830) 629-6615]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-98.129061,29.698207,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Little Joe's Smoke'n Grill</name>
+				<description><![CDATA[200 W Avenue G<br>Port Aransas, TX 78373<br>(361) 749-2333]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-97.067816,27.828775,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>R Bar B Que</name>
+				<description><![CDATA[1209 N Center St<br>Sabinal, TX 78881<br>(830) 988-2430]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-99.46765,29.323440000000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Rudy Mikeska's Bar-BQ</name>
+				<description><![CDATA[300 W 2nd St<br>Taylor, TX 76574<br>(512) 352-5561]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-97.411703,30.568549,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ranch Hand Barbecue Restaurant</name>
+				<description><![CDATA[705 E Moore Ave<br>Terrell, TX 75160<br>(972) 524-0125]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-96.26852200000002,32.735331,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Evett's Bar-B-Que</name>
+				<description><![CDATA[301 E Main St<br>Uvalde, TX 78801<br>(830) 278-6204]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-99.782108,29.210847999999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mesquite Pit</name>
+				<description><![CDATA[1201 Fort Worth Hwy<br>Weatherford, TX 76086<br>(817) 596-7046]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-97.775108,32.758548,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Plug's Bar BQ</name>
+				<description><![CDATA[7451 Weiland Rd<br>Weatherford, TX 76086<br>(817) 613-0172]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-97.75987,32.85511000000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bar L</name>
+				<description><![CDATA[908 13th St<br>Wichita Falls, TX 76301<br>(940) 322-3400]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-98.489323,33.906347,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Big Smith's Bar-BQ</name>
+				<description><![CDATA[9601 Texas Highway 154 S<br>Sulphur Springs, TX 75482<br>(903) 383-2706]]></description>
+				<styleUrl>#icon-168</styleUrl>
+				<Point>
+					<coordinates>-95.582045,32.963916,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Whistlin' Dixie</name>
+				<description><![CDATA[3502 Slide Rd<br>Lubbock, TX 79414<br>(806) 795-9750]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-101.922533,33.562363,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lufkin Bar Bq</name>
+				<description><![CDATA[203 S Chestnut St<br>Lufkin, TX 75901<br>(936) 634-4744]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-94.718821,31.334858,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sam's Bar-BQ</name>
+				<description><![CDATA[1113 E Scharbauer Dr<br>Midland, TX 79705<br>(432) 570-1082<br><br>4]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-102.071785,32.021222,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>No Teeth Barbecue</name>
+				<description><![CDATA[1012 W Cameron Ave<br>Rockdale, TX 76567<br>(254) 733-9044]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.012399,30.650564,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>RJ Catering</name>
+				<description><![CDATA[1405 N Bryant Blvd<br>San Angelo, TX 76903<br>(325) 659-4422]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-100.450521,31.471986999999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Bar-BQ Patio</name>
+				<description><![CDATA[8791 Old Pearsall Rd<br>San Antonio, TX 78252<br>(210) 622-0660<br><br>4]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-98.669891,29.304057999999998,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Haby's Hot Pit BBQ</name>
+				<description><![CDATA[Ste 77<br>400 E Leona St, Uvalde, TX 78801<br>(830) 278-5746]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-99.78356,29.217091,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Burr's Country Store Bar-BQ</name>
+				<description><![CDATA[2485 North St<br>Vidor, TX 77662<br>(409) 769-2309<br><br>4]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-93.951328,30.130057999999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tony De Maria Bar-B-Que</name>
+				<description><![CDATA[1000 Elm St<br>Waco, TX 76704<br>(254) 755-8888]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-97.120483,31.569782,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Shed</name>
+				<description><![CDATA[608 County Road 226<br>Wingate, TX 79566<br>(325) 743-2175]]></description>
+				<styleUrl>#icon-167</styleUrl>
+				<Point>
+					<coordinates>-100.114593,32.055477,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-167-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/167-red-pushpin.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-167-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/167-red-pushpin.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-167'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-167-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-167-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-168-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/168-ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-168-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/168-ylw-pushpin.png</href>
+				</Icon>
+				<hotSpot x='10' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-168'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-168-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-168-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
