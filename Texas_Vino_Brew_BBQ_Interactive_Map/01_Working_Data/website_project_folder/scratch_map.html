@@ -53,6 +53,8 @@
         }
     });
 
+    var VinoBrewBBQTable = "1o1sezFZ4ACkNxdnaDXpLPZ1f50726NcnoAVXpkCM"; // Marge table ID
+
     function initialize() {
         var map = new google.maps.Map(document.getElementById('map-canvas'), {
             center: new google.maps.LatLng(31.181084504804158, -97.82363891601562),
@@ -60,7 +62,9 @@
             mapTypeId: google.maps.MapTypeId.ROADMAP
         });
 
-        var tableId = '1E9BosnI16GISRmTBkINI2aWlYVdZae46v8jClAc';
+        <!--var tableId = '1E9BosnI16GISRmTBkINI2aWlYVdZae46v8jClAc';-->
+        var tableId = VinoBrewBBQTable;
+
         var locationColumn = 'geometry';
         var layer = new google.maps.FusionTablesLayer({
             query: {
