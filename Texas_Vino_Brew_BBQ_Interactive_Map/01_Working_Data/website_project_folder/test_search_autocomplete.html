@@ -1,14 +1,26 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Texas Vino, Brew, and BBQ</title>
-    <link rel="stylesheet" type="text/css" href="style.css" />
-    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-    <meta name="author" content="Todd Minehardt" />
-    <meta name="Copyright" content="Copyright (c) 2016 Todd Minehardt" />
+    <meta name="viewport">
+    <title>Vino, Brew, and BBQ Map - Google Fusion Tables</title>
+    <style type="text/css">
+        html, body, #googft-mapCanvas {
+            height: 500px;
+            margin: 0;
+            padding: 0;
+            width: 500px;
+        }
+    </style>
+
     <script type="text/javascript" src="https://maps.google.com/maps/api/js?key=AIzaSyAHGkPFonfvg2hBfafeHNarWxawRmAaP20&callback=initMap"></script>
 
     <script type="text/javascript">
+
+        var map; // Initialize new Google map
+        var VinoBrewBBQLayer; // Merge of Vino_Brew_BBQ and Markers Google Fusion Table Map overlay
+        var VinoBrewBBQTable = "1o1sezFZ4ACkNxdnaDXpLPZ1f50726NcnoAVXpkCM"; // Marge table ID
+        var VinoBrewBBQColumn = "geometry"; // Merge table column
+
         function initialize() {
             google.maps.visualRefresh = true;
             var isMobile = (navigator.userAgent.toLowerCase().indexOf('android') > -1) ||
@@ -20,45 +32,14 @@
             var mapDiv = document.getElementById('googft-mapCanvas');
             mapDiv.style.width = isMobile ? '100%' : '500px';
             mapDiv.style.height = isMobile ? '100%' : '500px';
-            var map = new google.maps.Map(mapDiv, {
-                center: new google.maps.LatLng(31.319639241325053, -100.07709000000006),
+            map = new google.maps.Map(mapDiv, {
+                center: new google.maps.LatLng(31.181084504804158, -97.82363891601562),
                 zoom: 6,
                 mapTypeId: google.maps.MapTypeId.ROADMAP
             });
             map.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(document.getElementById('googft-legend-open'));
             map.controls[google.maps.ControlPosition.RIGHT_BOTTOM].push(document.getElementById('googft-legend'));
 
-            // Add Fusion Table Regions Map overlay
-            RegionsLayer = new google.maps.FusionTablesLayer({
-                map: map,
-                heatmap: { enabled: false },
-                query: {
-                    select: "col0",
-                    from: "13QXyoXiSdVrQpu7XUHbJUv8ePprRFjiL-FpCXFpK",
-                    where: ""
-                },
-                options: {
-                    styleId: 3,
-                    templateId: 3
-                }
-            });
-
-            // Add Fusion Table Trails Map overlay
-            TrailsLayer = new google.maps.FusionTablesLayer({
-                map: map,
-                heatmap: { enabled: false },
-                query: {
-                    select: "col0",
-                    from: "1o_WRWBupRVT42rV3FhrFg25sxvtvvSasPuzx7CtL",
-                    where: ""
-                },
-                options: {
-                    styleId: 3,
-                    templateId: 3
-                }
-            });
-
-            // Add Fusion Table Vino, Brew, and BBQ Map overlay
             VinoBrewBBQLayer = new google.maps.FusionTablesLayer({
                 map: map,
                 heatmap: { enabled: false },
@@ -83,7 +64,7 @@
                 legendOpenButton.onclick = function() {
                     legend.style.display = 'block';
                     legendOpenButton.style.display = 'none';
-                };
+                }
                 legendCloseButton.onclick = function() {
                     legend.style.display = 'none';
                     legendOpenButton.style.display = 'block';
@@ -91,38 +72,34 @@
             }
         }
 
+        // Search VinoBrewBBQLayer based on using textbox input
+        function SearchLayer(VinoBrewBBQLayer, VinoBrewBBQTable, map) {
+            var store = document.getElementById('StoreTextInput').value;
+            var search = "NAME CONTAINS IGNORING CASE '" + store + "'";
+
+            if (!VinoBrewBBQLayer.getMap()) {
+                VinoBrewBBQLayer.setMap(map);
+            }
+            VinoBrewBBQLayer.setOptions({
+                query: {
+                    select: VinoBrewBBQColumn,
+                    from: VinoBrewBBQTable,
+                    where: search
+                },
+            });
+        }
+
         google.maps.event.addDomListener(window, 'load', initialize);
     </script>
 </head>
 
 <body>
-<div id="container">
-    <div id="hdr">
-        <h1>Texas Vino, Brew, and BBQ</h1>
-        <p id="tagline">Drink and eat your way across the state!</p>
-    </div>
+<div id="googft-mapCanvas"></div>
 
-    <div id="lftcol">
-        <ul id="nav">
-            <li><a href="">Home</a></li>
-            <li><a href="map.html" id="current">Interactive Map</a></li>
-        </ul>
-
-        <div id="quote">
-            <p><em>Have a drink, have a drive. Go out and see what you can find.</em></p>
-        </div>
-    </div>
-
-    <div id="rgtcol">
-        <h2>Introduction</h2>
-        <!--Insert Google Maps API code here-->
-        <div id="googft-mapCanvas"></div>
-    </div>
-
-    <div id="bttmbar">Copyright &copy; 2016 Todd Minehardt</div>
-
-
-</div>
-
+<!-- Insert Search Layer for NAME textbox here -->
+<span style="float: right;">
+    Search for
+    <input type="text" onkeyup="SearchLayer(VinoBrewBBQLayer, VinoBrewBBQTable, map)" id="StoreTextInput">
+</span>
 </body>
 </html>
