@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bfb21c9e-8f63-4b90-9864-64010b123d50" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_map.html" afterPath="$PROJECT_DIR$/test_map.html" />
     </list>
     <ignored path="grapes.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -400,7 +399,7 @@
       <workItem from="1476136169223" duration="519000" />
       <workItem from="1476136771044" duration="1926000" />
       <workItem from="1476309499883" duration="5944000" />
-      <workItem from="1476740254009" duration="9120000" />
+      <workItem from="1476740254009" duration="9429000" />
     </task>
     <task id="LOCAL-00001" summary="Put test message in zoom.">
       <created>1476136816203</created>
@@ -500,11 +499,18 @@
       <option name="project" value="LOCAL" />
       <updated>1476750805901</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Completed autosearch. Use my API key.">
+      <created>1476751068928</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1476751068928</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43193000" />
+    <option name="totallyTimeSpent" value="43502000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1884" height="1040" extended-state="0" />
