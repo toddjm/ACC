@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bfb21c9e-8f63-4b90-9864-64010b123d50" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scratch_map.html" afterPath="$PROJECT_DIR$/scratch_map.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_search_autocomplete.html" afterPath="$PROJECT_DIR$/test_search_autocomplete.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_map.html" afterPath="$PROJECT_DIR$/test_map.html" />
     </list>
     <ignored path="grapes.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,8 +28,8 @@
             <file leaf-file-name="test_map.html" pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/test_map.html">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="51">
-                    <caret line="137" column="43" selection-start-line="137" selection-start-column="43" selection-end-line="137" selection-end-column="43" />
+                  <state relative-caret-position="537">
+                    <caret line="291" column="56" selection-start-line="291" selection-start-column="56" selection-end-line="291" selection-end-column="56" />
                     <folding>
                       <element signature="n#style#0;n#span#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     </folding>
@@ -75,7 +74,7 @@
       <file leaf-file-name="scratch_map.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scratch_map.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
+            <state relative-caret-position="-234">
               <caret line="53" column="68" selection-start-line="53" selection-start-column="66" selection-end-line="53" selection-end-column="68" />
               <folding />
             </state>
@@ -85,8 +84,8 @@
       <file leaf-file-name="test_search_autocomplete.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_search_autocomplete.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="142" column="96" selection-start-line="142" selection-start-column="96" selection-end-line="142" selection-end-column="96" />
+            <state relative-caret-position="684">
+              <caret line="144" column="41" selection-start-line="144" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -115,11 +114,11 @@
         <option value="$PROJECT_DIR$/test_toggle.html" />
         <option value="$PROJECT_DIR$/test_search.html" />
         <option value="$PROJECT_DIR$/test_zoom.html" />
-        <option value="$PROJECT_DIR$/test_map.html" />
         <option value="$PROJECT_DIR$/map.html" />
         <option value="$PROJECT_DIR$/style.css" />
         <option value="$PROJECT_DIR$/scratch_map.html" />
         <option value="$PROJECT_DIR$/test_search_autocomplete.html" />
+        <option value="$PROJECT_DIR$/test_map.html" />
       </list>
     </option>
   </component>
@@ -401,7 +400,7 @@
       <workItem from="1476136169223" duration="519000" />
       <workItem from="1476136771044" duration="1926000" />
       <workItem from="1476309499883" duration="5944000" />
-      <workItem from="1476740254009" duration="6306000" />
+      <workItem from="1476740254009" duration="7065000" />
     </task>
     <task id="LOCAL-00001" summary="Put test message in zoom.">
       <created>1476136816203</created>
@@ -480,11 +479,18 @@
       <option name="project" value="LOCAL" />
       <updated>1476742484174</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Fixed location autocomplete.">
+      <created>1476748251864</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1476748251864</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40379000" />
+    <option name="totallyTimeSpent" value="41138000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1884" height="1040" extended-state="0" />
@@ -953,28 +959,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scratch_map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-234">
+          <caret line="53" column="68" selection-start-line="53" selection-start-column="66" selection-end-line="53" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test_map.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="137" column="43" selection-start-line="137" selection-start-column="43" selection-end-line="137" selection-end-column="43" />
+        <state relative-caret-position="537">
+          <caret line="291" column="56" selection-start-line="291" selection-start-column="56" selection-end-line="291" selection-end-column="56" />
           <folding>
             <element signature="n#style#0;n#span#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scratch_map.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="53" column="68" selection-start-line="53" selection-start-column="66" selection-end-line="53" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_search_autocomplete.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="142" column="96" selection-start-line="142" selection-start-column="96" selection-end-line="142" selection-end-column="96" />
+        <state relative-caret-position="684">
+          <caret line="144" column="41" selection-start-line="144" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
