@@ -28,8 +28,8 @@
             <file leaf-file-name="test_map.html" pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/test_map.html">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="537">
-                    <caret line="291" column="56" selection-start-line="291" selection-start-column="56" selection-end-line="291" selection-end-column="56" />
+                  <state relative-caret-position="571">
+                    <caret line="293" column="227" selection-start-line="293" selection-start-column="227" selection-end-line="293" selection-end-column="227" />
                     <folding>
                       <element signature="n#style#0;n#span#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     </folding>
@@ -84,8 +84,8 @@
       <file leaf-file-name="test_search_autocomplete.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_search_autocomplete.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="144" column="41" selection-start-line="144" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
+            <state relative-caret-position="344">
+              <caret line="121" column="47" selection-start-line="121" selection-start-column="47" selection-end-line="121" selection-end-column="47" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -400,7 +400,7 @@
       <workItem from="1476136169223" duration="519000" />
       <workItem from="1476136771044" duration="1926000" />
       <workItem from="1476309499883" duration="5944000" />
-      <workItem from="1476740254009" duration="7065000" />
+      <workItem from="1476740254009" duration="8850000" />
     </task>
     <task id="LOCAL-00001" summary="Put test message in zoom.">
       <created>1476136816203</created>
@@ -486,11 +486,18 @@
       <option name="project" value="LOCAL" />
       <updated>1476748251864</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Completed autosearch.">
+      <created>1476749021735</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1476749021735</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41138000" />
+    <option name="totallyTimeSpent" value="42923000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1884" height="1040" extended-state="0" />
@@ -532,7 +539,8 @@
     <MESSAGE value="Added comment to zoom." />
     <MESSAGE value="Remove test comments." />
     <MESSAGE value="Fixed location autocomplete." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed location autocomplete." />
+    <MESSAGE value="Completed autosearch." />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed autosearch." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -969,8 +977,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_map.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="291" column="56" selection-start-line="291" selection-start-column="56" selection-end-line="291" selection-end-column="56" />
+        <state relative-caret-position="571">
+          <caret line="293" column="227" selection-start-line="293" selection-start-column="227" selection-end-line="293" selection-end-column="227" />
           <folding>
             <element signature="n#style#0;n#span#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -979,8 +987,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_search_autocomplete.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="144" column="41" selection-start-line="144" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
+        <state relative-caret-position="344">
+          <caret line="121" column="47" selection-start-line="121" selection-start-column="47" selection-end-line="121" selection-end-column="47" />
           <folding>
             <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
