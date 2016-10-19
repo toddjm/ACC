@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfb21c9e-8f63-4b90-9864-64010b123d50" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bkgrnd.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/grapes.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/quote.gif" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/map.html" afterPath="$PROJECT_DIR$/map.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="grapes.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -78,8 +73,8 @@
       <file leaf-file-name="map.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/map.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+            <state relative-caret-position="272">
+              <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -309,7 +304,7 @@
       <workItem from="1476136771044" duration="1926000" />
       <workItem from="1476309499883" duration="5944000" />
       <workItem from="1476740254009" duration="9447000" />
-      <workItem from="1476913026856" duration="3421000" />
+      <workItem from="1476913026856" duration="3533000" />
     </task>
     <task id="LOCAL-00001" summary="Put test message in zoom.">
       <created>1476136816203</created>
@@ -451,11 +446,18 @@
       <option name="project" value="LOCAL" />
       <updated>1476915214188</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Fix formatting,">
+      <created>1476916725852</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1476916725852</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46941000" />
+    <option name="totallyTimeSpent" value="47053000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1884" height="1040" extended-state="0" />
@@ -501,7 +503,8 @@
     <MESSAGE value="Completed autosearch. Use my API key." />
     <MESSAGE value="Transfer js code to file; test map.html." />
     <MESSAGE value="Cleanup." />
-    <option name="LAST_COMMIT_MESSAGE" value="Cleanup." />
+    <MESSAGE value="Fix formatting," />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix formatting," />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -931,8 +934,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/map.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+        <state relative-caret-position="272">
+          <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
           <folding>
             <element signature="n#style#0;n#span#0;n#div#2;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
