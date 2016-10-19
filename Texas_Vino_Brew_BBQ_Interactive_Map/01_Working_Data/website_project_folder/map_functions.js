@@ -100,7 +100,7 @@ function ZoomRegion() {
     var option = document.getElementById('region').value;
     if (option == "Texas") {
         map.setCenter(TexasCentroid);
-        map.setZoom(5);
+        map.setZoom(6);
     }
     else if (option == "Brazos") {map.setCenter(BrazosCentroid)}
     else if (option == "Forest") {map.setCenter(ForestCentroid)}
