@@ -303,7 +303,7 @@
       <workItem from="1476136771044" duration="1926000" />
       <workItem from="1476309499883" duration="5944000" />
       <workItem from="1476740254009" duration="9447000" />
-      <workItem from="1476913026856" duration="4809000" />
+      <workItem from="1476913026856" duration="5002000" />
     </task>
     <task id="LOCAL-00001" summary="Put test message in zoom.">
       <created>1476136816203</created>
@@ -473,11 +473,18 @@
       <option name="project" value="LOCAL" />
       <updated>1476918100650</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Fix initial zoom level. Add margin on right to set off map.">
+      <created>1476918106208</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1476918106208</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48329000" />
+    <option name="totallyTimeSpent" value="48522000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1884" height="1040" extended-state="0" />
