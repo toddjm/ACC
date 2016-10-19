@@ -57,7 +57,7 @@ acronym {font-weight: bold; border-bottom: 1px dashed #000; cursor: help}
 position: relative; 
 margin: 0 auto; 
 width: 750px;
-background: url(images/bkgrnd.gif) 0 0 repeat-y #CCCC33;  /* Important image, do not remove */
+background: url(bkgrnd.gif) 0 0 repeat-y #CCCC33;  /* Important image, do not remove */
 overflow: hidden
 }
 
@@ -65,7 +65,7 @@ overflow: hidden
 float: left; 
 width: 620px; 
 height: 200px; 
-background: url(images/grapes.jpg) 0 0 no-repeat #CCCC33  /* Image of Grapes */
+background: url(grapes.jpg) 0 0 no-repeat #CCCC33  /* Image of Grapes */
 }
 
 #lftcol {   /* left column */
@@ -88,7 +88,7 @@ overflow: hidden
 	padding: 10px 0;
 	width: 170px;
 	text-align: center;
-	background: url(images/quote.gif) no-repeat 0 0	
+	background: url(quote.gif) no-repeat 0 0
 }
 
 #quote p {color: #444; font-size: 0.80em; font-weight: bold; line-height: 2.00em}  /* Quote box text */
