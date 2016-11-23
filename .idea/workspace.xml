@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6380d974-65cb-4847-88a1-e535013d8362" name="Default" comment="" />
+    <ignored path="ACC.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ACC" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Texas_Vino_Brew_BBQ_Interactive_Map/01_Working_Data/website_project_folder/map.html" />
+        <option value="$PROJECT_DIR$/Texas_Vino_Brew_BBQ_Interactive_Map/01_Working_Data/website_project_folder/scratch_map.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="3" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ACC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lifestyle_Business_Project" />
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Texas_Vino_Brew_BBQ_Interactive_Map/01_Working_Data/website_project_folder/.idea/workspace.xml</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/.idea/Lifestyle_Business_Project.iml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/.idea/modules.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/.idea/vcs.xml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/bird_resorts_Cayo_Belize.kml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/css/bootstrap.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/css/bootstrap.min.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/css/stylish-portfolio.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/css/font-awesome.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/css/font-awesome.min.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/fonts/FontAwesome.otf</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/fonts/fontawesome-webfont.eot</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/fonts/fontawesome-webfont.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/fonts/fontawesome-webfont.ttf</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/fonts/fontawesome-webfont.woff</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/fonts/fontawesome-webfont.woff2</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/less/animated.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/less/bordered-pulled.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/less/core.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/less/fixed-width.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/less/font-awesome.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/less/icons.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/less/larger.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/less/list.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/less/mixins.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/less/path.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/less/rotated-flipped.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/less/stacked.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/less/variables.less</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/scss/_animated.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/scss/_bordered-pulled.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/scss/_core.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/scss/_fixed-width.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/scss/_icons.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/scss/_larger.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/scss/_list.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/scss/_mixins.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/scss/_path.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/scss/_rotated-flipped.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/scss/_stacked.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/scss/_variables.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/font-awesome/scss/font-awesome.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/fonts/glyphicons-halflings-regular.eot</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/fonts/glyphicons-halflings-regular.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/fonts/glyphicons-halflings-regular.ttf</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/fonts/glyphicons-halflings-regular.woff</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/fonts/glyphicons-halflings-regular.woff2</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/img/bg.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/img/bg_old.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/img/callout.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/img/portfolio-1.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/img/portfolio-2.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/img/portfolio-3.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/img/portfolio-4.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/img/white-necked_jacobin.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/js/bootstrap.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/js/bootstrap.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Lifestyle_Business_Project/js/jquery.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Texas_Vino_Brew_BBQ_Interactive_Map/01_Working_Data/website_project_folder/bkgrnd.gif</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Texas_Vino_Brew_BBQ_Interactive_Map/01_Working_Data/website_project_folder/grapes.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/Texas_Vino_Brew_BBQ_Interactive_Map/01_Working_Data/website_project_folder/quote.gif</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/vcs.xml</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6380d974-65cb-4847-88a1-e535013d8362" name="Default" comment="" />
+      <created>1476129616253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1476129616253</updated>
+      <workItem from="1476129617642" duration="225000" />
+      <workItem from="1476636168803" duration="6721000" />
+      <workItem from="1477846014287" duration="148000" />
+      <workItem from="1479833850714" duration="13000" />
+      <workItem from="1479833983810" duration="98000" />
+      <workItem from="1479834092310" duration="317000" />
+    </task>
+    <task id="LOCAL-00001" summary="Test. Fixed error in map.html.">
+      <created>1476129825818</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1476129825818</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Working version with autocomplete.">
+      <created>1476650272385</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1476650272385</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Working version with autocomplete, #2.">
+      <created>1476651484406</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1476651484406</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Working version with autocomplete. Got right colors for dots.">
+      <created>1476735057444</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1476735057444</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Working version with autocomplete. Got right colors for dots. Not working with my API key and FUsion table ID.">
+      <created>1476736287279</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1476736287279</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7522000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="3" y="20" width="1346" height="728" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2112782" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test." />
+    <MESSAGE value="Test. Fixed error in map.html." />
+    <MESSAGE value="Working version with autocomplete." />
+    <MESSAGE value="Working version with autocomplete, #2." />
+    <MESSAGE value="Working version with autocomplete. Got right colors for dots." />
+    <MESSAGE value="Working version with autocomplete. Got right colors for dots. Not working with my API key and FUsion table ID." />
+    <option name="LAST_COMMIT_MESSAGE" value="Working version with autocomplete. Got right colors for dots. Not working with my API key and FUsion table ID." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Texas_Vino_Brew_BBQ_Interactive_Map/01_Working_Data/website_project_folder/map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Texas_Vino_Brew_BBQ_Interactive_Map/01_Working_Data/website_project_folder/scratch_map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1768">
+          <caret line="104" column="124" selection-start-line="104" selection-start-column="124" selection-end-line="104" selection-end-column="124" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Texas_Vino_Brew_BBQ_Interactive_Map/01_Working_Data/website_project_folder/test_search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="65" selection-start-line="42" selection-start-column="65" selection-end-line="42" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Texas_Vino_Brew_BBQ_Interactive_Map/01_Working_Data/website_project_folder/test_map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="77" selection-start-line="18" selection-start-column="77" selection-end-line="18" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Texas_Vino_Brew_BBQ_Interactive_Map/01_Working_Data/website_project_folder/map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Texas_Vino_Brew_BBQ_Interactive_Map/01_Working_Data/website_project_folder/scratch_map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1768">
+          <caret line="104" column="124" selection-start-line="104" selection-start-column="124" selection-end-line="104" selection-end-column="124" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Texas_Vino_Brew_BBQ_Interactive_Map/01_Working_Data/website_project_folder/test_search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="65" selection-start-line="42" selection-start-column="65" selection-end-line="42" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Texas_Vino_Brew_BBQ_Interactive_Map/01_Working_Data/website_project_folder/test_map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="77" selection-start-line="18" selection-start-column="77" selection-end-line="18" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Texas_Vino_Brew_BBQ_Interactive_Map/01_Working_Data/website_project_folder/map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Texas_Vino_Brew_BBQ_Interactive_Map/01_Working_Data/website_project_folder/scratch_map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1768">
+          <caret line="104" column="124" selection-start-line="104" selection-start-column="124" selection-end-line="104" selection-end-column="124" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Texas_Vino_Brew_BBQ_Interactive_Map/01_Working_Data/website_project_folder/test_search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="65" selection-start-line="42" selection-start-column="65" selection-end-line="42" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Texas_Vino_Brew_BBQ_Interactive_Map/01_Working_Data/website_project_folder/test_map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="77" selection-start-line="15" selection-start-column="77" selection-end-line="15" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Texas_Vino_Brew_BBQ_Interactive_Map/01_Working_Data/website_project_folder/map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" column="26" selection-start-line="69" selection-start-column="26" selection-end-line="69" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Texas_Vino_Brew_BBQ_Interactive_Map/01_Working_Data/website_project_folder/scratch_map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Texas_Vino_Brew_BBQ_Interactive_Map/01_Working_Data/website_project_folder/test_search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="65" selection-start-line="42" selection-start-column="65" selection-end-line="42" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Texas_Vino_Brew_BBQ_Interactive_Map/01_Working_Data/website_project_folder/test_map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Texas_Vino_Brew_BBQ_Interactive_Map/01_Working_Data/website_project_folder/map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Texas_Vino_Brew_BBQ_Interactive_Map/01_Working_Data/website_project_folder/test_map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="77" selection-start-line="18" selection-start-column="77" selection-end-line="18" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Texas_Vino_Brew_BBQ_Interactive_Map/01_Working_Data/website_project_folder/map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Texas_Vino_Brew_BBQ_Interactive_Map/01_Working_Data/website_project_folder/scratch_map.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="104" column="124" selection-start-line="104" selection-start-column="124" selection-end-line="104" selection-end-column="124" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Texas_Vino_Brew_BBQ_Interactive_Map/01_Working_Data/website_project_folder/test_search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="42" column="65" selection-start-line="42" selection-start-column="65" selection-end-line="42" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
