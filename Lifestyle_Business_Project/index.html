@@ -9,7 +9,12 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Stylish Portfolio - Start Bootstrap Theme</title>
+    <title>Birds of Belize</title>
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css" />
+    <style>
+        #mapid { height: 600px; }
+    </style>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -73,7 +78,8 @@
     <!-- Map -->
     <!-- lat long 16.777641, -88.780024 -->
     <section id="contact" class="map">
-
+        <!-- Leaflet HTML -->
+        <div id="mapid"></div>
     </section>
 
     <!-- Footer -->
@@ -172,6 +178,20 @@
         }
         // Enable map zooming with mouse scroll when the user clicks the map
     $('.map').on('click', onMapClickHandler);
+    </script>
+
+    <!-- Leaflet JS Library and JS -->
+    <script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
+
+    <script>
+        <!-- lat long 16.777641, -88.780024 -->
+        var mymap = L.map('mapid').setView([16.777641, -88.780024], 10);
+        L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+            attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+            maxZoom: 18,
+            id: 'mapbox.satellite',
+            accessToken: 'pk.eyJ1IjoidG9kZG00OSIsImEiOiJjaXZpcHRvNncwMWYwMnVsdjJpaHA0bGFsIn0.wdmjaSOZF78xmDuruV5V0w'
+        }).addTo(mymap);
     </script>
 
 </body>
