@@ -182,10 +182,11 @@
 
     <!-- Leaflet JS Library and JS -->
     <script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
+    <script src="js/bird_resorts.js" type="text/javascript"></script>
 
     <script>
-        <!-- lat long 16.777641, -88.780024 -->
-        var mymap = L.map('mapid').setView([16.777641, -88.780024], 9);
+        <!-- lat long 17.182376, -88.976662 -->
+        var mymap = L.map('mapid').setView([17.182376, -88.976662], 9);
         L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
             attribution: 'ACC GIS | Icons Courtesy of <a href="https://mapicons.mapsmarker.com">Map Icons Collection</a> | Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
             maxZoom: 18,
@@ -202,8 +203,11 @@
         });
 
         // Add business location with custom marker in Leaflet
-        var marker = L.marker([16.777641, -88.780024], {icon: birdIcon}).addTo(mymap);
+        var marker = L.marker([17.182376, -88.976662], {icon: birdIcon}).addTo(mymap);
         marker.bindPopup("<strong>Birds of Belize</strong><br>Belize").openPopup();
+
+        // Add nearby locations as GeoJSON layer with custom icons
+        L.geoJson(birdResorts).addTo(mymap);
     </script>
 
 </body>
