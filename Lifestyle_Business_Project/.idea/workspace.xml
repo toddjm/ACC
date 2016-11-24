@@ -29,10 +29,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="205" column="52" selection-start-line="205" selection-start-column="52" selection-end-line="205" selection-end-column="52" />
+            <state relative-caret-position="66">
+              <caret line="188" column="70" selection-start-line="188" selection-start-column="70" selection-end-line="188" selection-end-column="70" />
               <folding>
-                <marker date="1479944443294" expanded="true" signature="7137:7143" ph="©" />
+                <marker date="1479945689153" expanded="true" signature="7138:7144" ph="©" />
               </folding>
             </state>
           </provider>
@@ -78,7 +78,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-65" />
+    <option name="x" value="44" />
+    <option name="y" value="36" />
     <option name="width" value="1305" />
     <option name="height" value="672" />
   </component>
@@ -162,7 +163,7 @@
       <option name="presentableId" value="Default" />
       <updated>1479834411180</updated>
       <workItem from="1479834412285" duration="1622000" />
-      <workItem from="1479919003513" duration="5088000" />
+      <workItem from="1479919003513" duration="6346000" />
     </task>
     <task id="LOCAL-00001" summary="Add some JS for Leaflet.">
       <created>1479836388673</created>
@@ -213,14 +214,21 @@
       <option name="project" value="LOCAL" />
       <updated>1479943594063</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Move location of resort.">
+      <created>1479944600000</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1479944600000</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6710000" />
+    <option name="totallyTimeSpent" value="7968000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-65" y="0" width="1305" height="672" extended-state="0" />
+    <frame x="44" y="36" width="1305" height="672" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.257564" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -260,7 +268,8 @@
     <MESSAGE value="Add Bird icon." />
     <MESSAGE value="Update with popup." />
     <MESSAGE value="Add bird resorts geoJSON file as .js script." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add bird resorts geoJSON file as .js script." />
+    <MESSAGE value="Move location of resort." />
+    <option name="LAST_COMMIT_MESSAGE" value="Move location of resort." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -272,7 +281,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1479944443294" expanded="true" signature="7137:7143" ph="©" />
+            <marker date="1479945689153" expanded="true" signature="7138:7144" ph="©" />
           </folding>
         </state>
       </provider>
@@ -315,10 +324,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="205" column="52" selection-start-line="205" selection-start-column="52" selection-end-line="205" selection-end-column="52" />
+        <state relative-caret-position="66">
+          <caret line="188" column="70" selection-start-line="188" selection-start-column="70" selection-end-line="188" selection-end-column="70" />
           <folding>
-            <marker date="1479944443294" expanded="true" signature="7137:7143" ph="©" />
+            <marker date="1479945689153" expanded="true" signature="7138:7144" ph="©" />
           </folding>
         </state>
       </provider>
